@@ -4637,7 +4637,6 @@ Enable,Activer,module,Magento_Sales
 "Multi-address Description Message","Message de description multi-adresse",module,Magento_Sales
 "Multi-address Error to Show in Shopping Cart","Erreur multi-adresse à afficher dans le panier",module,Magento_Sales
 Dashboard,"Tableau de bord",module,Magento_Sales
-"Use Aggregated Data (beta)","Utiliser les données cumulatives (beta)",module,Magento_Sales
 "Sales Emails","Mails des ventes",module,Magento_Sales
 Enabled,Activé,module,Magento_Sales
 "New Order Confirmation Email Sender","Expéditeur du mail de confirmation de commande",module,Magento_Sales
