@@ -1892,9 +1892,6 @@ Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Payment
 No,Non,module,Magento_Payment
 "Expiration Date","Date d'expiration",module,Magento_Payment
 "Card Verification Number","Numéro de vérification",module,Magento_Payment
-"Switch/Solo/Maestro Only","Switch/Solo/Maestro seulement",module,Magento_Payment
-"Issue Number","Numéro de problème",module,Magento_Payment
-"Start Date","Date de début",module,Magento_Payment
 "Please Select","Veuillez sélectionner",module,Magento_Payment
 "--Please Select--","--Votre choix--",module,Magento_Payment
 "Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte",module,Magento_Payment
