@@ -30,6 +30,7 @@ notice,annonce,module,Magento_AdminNotification
 "Major System Messages","Messages système majeur",module,Magento_AdminNotification
 "System messages","Message système",module,Magento_AdminNotification
 Close,Fermer,module,Magento_AdminNotification
+"See All (","Voir Tous (",module,Magento_AdminNotification
 "Please correct the data sent.","Merci de corriger les données envoyées.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Le modèle du type d'entité '%1' est introuvable.",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Aucun type de produit disponible pour l'export",module,Magento_AdvancedPricingImportExport
