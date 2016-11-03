@@ -950,7 +950,7 @@ Country,Pays,module,Magento_Checkout
 State/Province,État/Région,module,Magento_Checkout
 "Zip/Postal Code","Code postal""Express Checkout and Order have been canceled.",module,Magento_Checkout
 "My Cart","Mon panier",module,Magento_Checkout
-"You added %1 to your shopping cart.",Oui/Non,module,Magento_Checkout
+"You added %1 to your shopping cart.","Vous avez ajouté %1 à votre panier.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_Checkout
 "Out of stock",Épuisé,module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","Éditer les paramètres de l'article",module,Magento_Checkout
@@ -3579,7 +3579,7 @@ Apply,Appliquer,module,Magento_Widget
 "Wish List","Liste d'envies",module,Magento_Wishlist
 "Wish List Sharing","Partager ma liste d'envies",module,Magento_Wishlist
 "Page not found.","Page introuvable.",module,Magento_Wishlist
-"You added %1 to your shopping cart.",Oui/Non,module,Magento_Wishlist
+"You added %1 to your shopping cart.","Vous avez ajouté %1 à votre panier.",module,Magento_Wishlist
 "We can't load the Wish List item right now.","Chargement impossible des articles de votre liste d'envies pour le moment.",module,Magento_Wishlist
 "Please enter an email address.","Veuillez saisir un code postal valide. Par exemple 92100.",module,Magento_Wishlist
 "Please enter a valid email address.","Saisissez un email valide.",module,Magento_Wishlist
