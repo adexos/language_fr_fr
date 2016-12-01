@@ -35,6 +35,7 @@ Close,Fermer,module,Magento_AdminNotification
 "Entity type model '%1' is not found","Le modèle du type d'entité '%1' est introuvable.",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Aucun type de produit disponible pour l'export",module,Magento_AdvancedPricingImportExport
 "We can't find the role for the user you wanted.","Impossible de trouver le rôle de l'utilisateur désiré.",module,Magento_Authorization
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Une erreur s'est produite lors de la compilation d'une liste de ressources autorisées. Vous pouvez trouver plus d'informations dans le journal des exceptions.",module,Magento_Authorization
 "You created the order.","Vous avez créé la commande.",module,Magento_Authorizenet
 "Order saving error: %1","Erreur lors de la sauvegarde de la commande : %1",module,Magento_Authorizenet
 "Please choose a payment method.","Choisissez une condition à ajouter...",module,Magento_Authorizenet
@@ -499,13 +500,22 @@ Always,Toujours,module,Magento_Captcha
 "Provided form does not exist","Le formulaire fourni n'existe pas",module,Magento_Captcha
 "Incorrect CAPTCHA","CAPTCHA incorrect",module,Magento_Captcha
 "Incorrect CAPTCHA.","CAPTCHA incorrect.",module,Magento_Captcha
+"The account is locked. Please wait and try again or contact %1.","Le compte est verrouillé. S’il vous plaît attendez et réessayez ou contactez %1.",module,Magento_Captcha
 "Please enter the letters from the image","Veuillez saisir les lettres de l'image",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong> : le captcha est sensible à la casse.",module,Magento_Captcha
 "Reload captcha","Recharger le captcha",module,Magento_Captcha
 "Please type the letters below","Veuillez saisir les lettres ci-dessous",module,Magento_Captcha
 "Entity type model '%1' is not found","Le modèle du type d'entité '%1' est introuvable.",module,Magento_CatalogImportExport
-"There are no product types available for export.","Le fichier '%1' n'as pas été trouvé ou n'est pas lisible.",module,Magento_CatalogImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Le Modèle de type entité doit être une instance de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
+"There are no product types available for export.","Il n’existe aucun type de produit pour l’exportation.",module,Magento_CatalogImportExport
+"Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Le Modèle de type entité doit être une instance de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
+"Category ""%1"" has not been created.","Catégorie « %1 » n’a pas été créé.",module,Magento_CatalogImportExport
 "File directory '%1' is not readable.","Le répertoire '%1' n'est pas autorisé en écriture.",module,Magento_CatalogImportExport
+"Please enter a value for title.","Veuillez entrer une valeur pour le titre.",module,Magento_CatalogImportExport
+"This name is already being used for custom option. Please enter a different name.","Ce nom est déjà utilisé pour l’option personnalisée. Veuillez saisir un nom différent.",module,Magento_CatalogImportExport
+"Custom options have different types.","Options personnalisées ont différents types.",module,Magento_CatalogImportExport
+"Every option entity must have a parent product entity.","Chaque entité de l’option doit avoir une entité de produit parent.",module,Magento_CatalogImportExport
+"Please correct the parameters.","S’il vous plaît corriger les paramètres.",module,Magento_CatalogImportExport
 "ALL GROUPS","TOUS LES GROUPES",module,Magento_CatalogInventory
 "Customer Group","Groupe de clients",module,Magento_CatalogInventory
 "Minimum Qty","Quantité mini",module,Magento_CatalogInventory
@@ -1221,6 +1231,9 @@ System,Système,module,Magento_CurrencySymbol
 "Please specify an email.","Merci de spécifier un email.",module,Magento_CustomerImportExport
 "We found an invalid value in a website column.","Merci de renseigner un mot de passe avec une longueur valide.",module,Magento_CustomerImportExport
 "Please enter a valid email.","Veuillez saisir une adresse email valide.",module,Magento_CustomerImportExport
+"We can't find a customer who matches this email and website code.","Nous ne pouvons pas trouver un client qui correspond à ce email et site Web.",module,Magento_CustomerImportExport
+"We can't find that customer address.","Nous ne pouvons pas trouver l’adresse de ce client.",module,Magento_CustomerImportExport
+"We can't find that email and website combination.","Nous ne pouvons pas trouver cette combinaison email et site Web.",module,Magento_CustomerImportExport
 "Sign Out",Déconnexion,module,Magento_Customer
 "Sign In","Mon tableau de bord",module,Magento_Customer
 "You have not set a default shipping address.","Vous n'avez pas spécifié d'adresse de livraison par défaut.",module,Magento_Customer
