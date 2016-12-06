@@ -24,8 +24,13 @@ major,majeur,module,Magento_AdminNotification
 minor,mineur,module,Magento_AdminNotification
 notice,annonce,module,Magento_AdminNotification
 "Wrong message type","Mauvais type de message.",module,Magento_AdminNotification
+"Wrong notification ID specified.","ID de notification incorrecte.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","L'utilisation de {{base_url}} n'est pas recommandée dans un environnement de production. Nous vous recommandons de modifier cette valeur dans votre <a href=""%1"">configuration</a> Magento.",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","S.V.P. aller la page de <a href=""%1"">gestion de cache</a> et actualisation les types de cache.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","Un ou plusieurs fichiers médias n'ont pas pu être synchronisés. Veuillez consulter le fichier journal pour plus de détails.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","La synchronisation du stockage des médias est terminée.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Votre serveur web est mal configuré et permet l'accès non autorisé à des fichiers sensibles. ' 'Veuillez contacter votre hébergeur.",module,Magento_AdminNotification
+"System Messages:","Message système:",module,Magento_AdminNotification
 "Critical System Messages","Messages système critique",module,Magento_AdminNotification
 "Major System Messages","Messages système majeur",module,Magento_AdminNotification
 "System messages","Message système",module,Magento_AdminNotification
@@ -33,6 +38,7 @@ Close,Fermer,module,Magento_AdminNotification
 "See All (","Voir Tous (",module,Magento_AdminNotification
 "Please correct the data sent.","Merci de corriger les données envoyées.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Le modèle du type d'entité '%1' est introuvable.",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Le Modèle de type entité doit être une instance de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Aucun type de produit disponible pour l'export",module,Magento_AdvancedPricingImportExport
 "We can't find the role for the user you wanted.","Impossible de trouver le rôle de l'utilisateur désiré.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Une erreur s'est produite lors de la compilation d'une liste de ressources autorisées. Vous pouvez trouver plus d'informations dans le journal des exceptions.",module,Magento_Authorization
@@ -209,6 +215,7 @@ Export,Exporter,module,Magento_Backend
 "Please select items.","Sélectionnez des éléments.",module,Magento_Backend
 Submit,Valider,module,Magento_Backend
 "Unknown block type","Type de bloc inconnu",module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empty","S’il vous plaît corriger la configuration de l’onglet, puis réessayez. L'Id de l'onglet ne doit pas être vide",module,Magento_Backend
 "Please correct the tab configuration and try again.","Merci de corriger la configuration de l'onglet puis réessayez.",module,Magento_Backend
 "You have logged out.","Vous vous êtes déconnecté(e).",module,Magento_Backend
 "Specified cache type(s) don't exist: %1","Le(s) type(s) de cache spécifié(s) n'existe(nt) pas : %1",module,Magento_Backend
@@ -252,9 +259,11 @@ System,Système,module,Magento_Backend
 "Something went wrong. Please try again.","Une erreur s'est produite. Merci d'essayer ultérieurement.",module,Magento_Backend
 "This store cannot be deleted.","Ce magasin ne peut pas être effacé.",module,Magento_Backend
 "You deleted the store.","Vous avez supprimé le magasin.",module,Magento_Backend
+"Unable to delete the store. Please try again later.","Impossible de supprimer la vue magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "This store view cannot be deleted.","Cette vue magasin ne peut pas être effacée.",module,Magento_Backend
 "Store View","Vue magasin",module,Magento_Backend
 "You deleted the store view.","Vous avez supprimé la vue magasin.",module,Magento_Backend
+"Unable to delete the store view. Please try again later.","Impossible de supprimer la vue magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "This website cannot be deleted.","Ce site web ne peut pas être effacé.",module,Magento_Backend
 "You deleted the website.","Vous avez supprimé le site web.",module,Magento_Backend
 "The website does not exist.","Le site web n'existe pas.",module,Magento_Backend
@@ -3813,6 +3822,7 @@ Ok,OK,module,Magento_Sales
 "Please enter a valid value, ex: 10,20,30","Saisissez une valeur valide, par ex : 10, 20, 30",module,Magento_Ui
 Close,Fermer,module,Magento_Ui
 Ok,OK,module,Magento_Ui
+"Show Toolbar","Afficher la barre d'outils",module,Magento_AdminNotification
 "Show List","Afficher la liste",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Utiliser HTTPS pour récupérer le flux",module,Magento_AdminNotification
 "Update Frequency","Fréquence de mise à jour",module,Magento_AdminNotification
