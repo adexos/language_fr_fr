@@ -266,6 +266,7 @@ System,Système,module,Magento_Backend
 "Unable to delete the store view. Please try again later.","Impossible de supprimer la vue magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "This website cannot be deleted.","Ce site web ne peut pas être effacé.",module,Magento_Backend
 "You deleted the website.","Vous avez supprimé le site web.",module,Magento_Backend
+"Unable to delete the website. Please try again later.","Impossible de supprimer le site web. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "The website does not exist.","Le site web n'existe pas.",module,Magento_Backend
 "Before modifying the website code please make sure it is not used in index.php.","Avant de modifier le code du site web assurez-vous qu'il n'est pas utilisé dans index.php.",module,Magento_Backend
 "The store does not exist","Le magasin n'existe pas.",module,Magento_Backend
@@ -273,6 +274,7 @@ System,Système,module,Magento_Backend
 "Before modifying the store view code please make sure it is not used in index.php.","Avant de modifier le code de la vue magasin, assurez-vous qu'il n'est pas utilisé dans le fichier index.php.",module,Magento_Backend
 "You saved the website.","Vous avez sauvegardé le site Web.",module,Magento_Backend
 "You saved the store.","Vous avez sauvegardé le magasin.",module,Magento_Backend
+"The default store cannot be disabled","Le magasin par défaut ne peut pas être désactivé",module,Magento_Backend
 "You saved the store view.","Vous avez sauvegardé la vue magasin.",module,Magento_Backend
 "Something went wrong while saving. Please review the error log.","Une erreur s'est produite durant l'enregistrement. Veuillez consulter le journal d'erreurs.",module,Magento_Backend
 "Last 24 Hours","Dernières 24 heures",module,Magento_Backend
@@ -283,6 +285,8 @@ YTD,"Depuis le début de l'année",module,Magento_Backend
 "Authentication storage is incorrect.","Le stockage d'authentification est incorrect.",module,Magento_Backend
 "You did not sign in correctly or your account is temporarily disabled.","Erreur dans les paramètres de connexion ou votre compte est temporairement désactivé.",module,Magento_Backend
 "Authentication error occurred.","Une erreur d'authentification s'est produite.",module,Magento_Backend
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","La durée de vie de la session Admin doit être inférieure ou égale à 31536000 secondes (un an)",module,Magento_Backend
+"Admin session lifetime must be greater than or equal to 60 seconds","La durée de vie de la session Admin doit être supérieure ou égale à 60 secondes",module,Magento_Backend
 Order,Commande,module,Magento_Backend
 "Order #%1","Commande n°%1",module,Magento_Backend
 "Access denied","Accès refusé",module,Magento_Backend
@@ -328,6 +332,7 @@ Hour,Heure,module,Magento_Backend
 "Flush Catalog Images Cache","Purger le cache des images catalogue",module,Magento_Backend
 "Pregenerated product images files","Fichiers image de produits pré-générés",module,Magento_Backend
 "Flush JavaScript/CSS Cache","Purger le cache JavaScript/CSS",module,Magento_Backend
+"Themes JavaScript and CSS files combined to one file","Fichiers de thèmes JavaScript et CSS combinés en un seul fichier",module,Magento_Backend
 "Flush Static Files Cache","Purger le cache des fichiers statiques",module,Magento_Backend
 "Preprocessed view files and static files","Fichiers aperçu et fichiers statiques pré-traités",module,Magento_Backend
 Catalog,Catalogue,module,Magento_Backend
@@ -3859,6 +3864,16 @@ Debug,Déboguage,module,Magento_Authorizenet
 "Minimum Order Total","Montant mini de commande",module,Magento_Authorizenet
 "Maximum Order Total","Montant maxi de commande",module,Magento_Authorizenet
 "Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Authorizenet
+"Allow everything","Tout autoriser",module,Magento_Backend
+"Magento Admin","Admin Magento",module,Magento_Backend
+"Global Search","Recherche globale",module,Magento_Backend
+"SEO & Search","SEO & recherche",module,Magento_Backend
+"User Content","Contenu de l’utilisateur",module,Magento_Backend
+Content,Contenu,module,Magento_Backend
+Elements,Éléments,module,Magento_Backend
+Schedule,Planning,module,Magento_Backend
+Settings,Paramètres,module,Magento_Backend
+"All Stores","Tous les magasins",module,Magento_Backend
 Advanced,Avancé,module,Magento_Backend
 "Disable Modules Output","Désactiver la sortie des modules",module,Magento_Backend
 "Store Email Addresses","Adresses email du magasin",module,Magento_Backend
