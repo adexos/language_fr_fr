@@ -973,7 +973,12 @@ City,Ville,module,Magento_Checkout
 Country,Pays,module,Magento_Checkout
 State/Province,État/Région,module,Magento_Checkout
 "Zip/Postal Code","Code postal""Express Checkout and Order have been canceled.",module,Magento_Checkout
+"My Cart (1 item)","Mon panier (1 article)",module,Magento_Checkout
+"My Cart (%1 items)","Mon panier (%1 articles)",module,Magento_Checkout
 "My Cart","Mon panier",module,Magento_Checkout
+"For delivery questions.","Pour les questions de livraison.",module,Magento_Checkout
+"Customer is already registered","Client est déjà enregistré",module,Magento_Checkout
+"Your session has expired","Votre session a expiré",module,Magento_Checkout
 "You added %1 to your shopping cart.","Vous avez ajouté %1 à votre panier.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_Checkout
 "Out of stock",Épuisé,module,Magento_Checkout
@@ -3676,6 +3681,7 @@ Remove,Supprimer,theme,frontend/Magento/luma
 Reason,Prêt,module,Magento_Checkout
 Items,Articles,module,Magento_Checkout
 Total:,"Total :",module,Magento_Checkout
+"Billing Address:","Adresse de facturation:",module,Magento_Checkout
 "Shipping Address:","Adresse de livraison",module,Magento_Checkout
 "Shipping Method:","Mode de livraison :",module,Magento_Checkout
 "Payment Method:","Mode de paiement :",module,Magento_Checkout
