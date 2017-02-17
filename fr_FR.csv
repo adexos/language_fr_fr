@@ -3192,18 +3192,12 @@ Error:,"Erreur :",module,Magento_Shipping
 "contact us","nous contacter",module,Magento_Shipping
 Info:,"Info :",module,Magento_Shipping
 Track:,"Suivre :",module,Magento_Shipping
-Status:,"Statut :",module,Magento_Shipping
 "Delivered on:","Livré le :",module,Magento_Shipping
-"Signed by:","Signé par :",module,Magento_Shipping
-"Delivered to:","Livré à :",module,Magento_Shipping
-"Shipped or billed on:","Livré ou facturé le :",module,Magento_Shipping
-"Service Type:","Type de service :",module,Magento_Shipping
-Weight:,"Poids :",module,Magento_Shipping
-Location,Lieu,module,Magento_Shipping
-"Local Time","Heure locale",module,Magento_Shipping
 "There is no tracking available for this shipment.","Aucun suivi disponible pour la livraison",module,Magento_Shipping
 "There is no tracking available.","Aucun suivi disponible.",module,Magento_Shipping
 "Close Window","Fermer la fenêtre",module,Magento_Shipping
+Location,Lieu,module,Magento_Shipping
+"Local Time","Heure locale",module,Magento_Shipping
 "Save & Generate","Sauvegarder & générer",module,Magento_Sitemap
 "Edit Sitemap","Éditer le plan de site",module,Magento_Sitemap
 "New Sitemap","Nouveau plan de site",module,Magento_Sitemap
@@ -3699,7 +3693,6 @@ Close,Fermer,module,Magento_Checkout
 "See Details","Clé de sécurité",module,Magento_Checkout
 "Options Details","Détails des options",module,Magento_Checkout
 Remove,Supprimer,module,Magento_Checkout
-"No Payment Methods","Aucun mode de paiement",module,Magento_Checkout
 "Payment Information","Informations de paiement",module,Magento_Checkout
 "Place Order","Passez la commande",module,Magento_Checkout
 "Forgot an Item?","Vous avez oublié un article ?",module,Magento_Checkout
@@ -4506,7 +4499,6 @@ Import,Importer,module,Magento_OfflineShipping
 "Payment Methods","Modes de paiement",module,Magento_Payment
 "Merchant Country","Pays du marchand",module,Magento_Paypal
 "If not specified, Default Country from General Config will be used","S'il n'est pas spécifié, le pays par défaut dans la configuration général sera utilisé",module,Magento_Paypal
-"Email Associated with PayPal Merchant Account","Email associée à Compte Marchand PayPal",module,Magento_Paypal
 "Don't have a PayPal account? Simply enter your email address.","Vous n'avez pas de compte PayPal ? Il suffit d'entrer votre adresse email.",module,Magento_Paypal
 "API Authentication Methods","Modes d'authentification de l'API",module,Magento_Paypal
 "API Username","Pseudo API",module,Magento_Paypal
