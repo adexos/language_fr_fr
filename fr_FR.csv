@@ -324,7 +324,6 @@ Hour,Heure,module,Magento_Backend
 "JavaScript may be disabled in your browser.","JavaScript peut être désactivé dans votre navigateur.",module,Magento_Backend
 "To use this website you must first enable JavaScript in your browser.","Pour utiliser ce site web vous devez d'abord activer JavaScript dans votre navigateur.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Il s'agit seulement d'un magasin de démo. Vous pouvez naviguer et passer des commandes, mais rien ne sera traité.",module,Magento_Backend
-"Report Bugs","Signaler un bug",module,Magento_Backend
 "Store View:","Vue magasin:",module,Magento_Backend
 "Stores Configuration","Configuration des magasins",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Veuillez confirmer le changement de portée. Toutes les données non sauvegardées seront perdues.",module,Magento_Backend
@@ -425,6 +424,7 @@ Authorize,Autoriser,module,Magento_Braintree
 "Credit Card Number","Numéro de carte bancaire",module,Magento_Braintree
 "Expiration Date","Date d'expiration",module,Magento_Braintree
 "Card Verification Number","Numéro de vérification",module,Magento_Braintree
+Delete,Supprimer,module,Magento_Braintree
 "Percent Discount","Remise en pourcentage",module,Magento_Bundle
 "-- Select --","-- Votre choix --",module,Magento_Bundle
 Dynamic,Dynamique,module,Magento_Bundle
@@ -522,7 +522,6 @@ Always,Toujours,module,Magento_Captcha
 "Entity type model '%1' is not found","Le modèle du type d'entité '%1' est introuvable.",module,Magento_CatalogImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Le Modèle de type entité doit être une instance de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","Il n’existe aucun type de produit pour l’exportation.",module,Magento_CatalogImportExport
-"Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Le Modèle de type entité doit être une instance de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "Category ""%1"" has not been created.","Catégorie « %1 » n’a pas été créé.",module,Magento_CatalogImportExport
 "File directory '%1' is not readable.","Le répertoire '%1' n'est pas autorisé en écriture.",module,Magento_CatalogImportExport
 "Please enter a value for title.","Veuillez entrer une valeur pour le titre.",module,Magento_CatalogImportExport
@@ -746,7 +745,6 @@ None,Aucun,module,Magento_Catalog
 "You deleted the category.","Vous avez supprimé la catégorie.",module,Magento_Catalog
 Categories,Catégories,module,Magento_Catalog
 "Category is not available for requested store.","La catégorie n'est pas disponible pour le magasin demandé.",module,Magento_Catalog
-"You moved the category","Vous avez déplacé de la catégorie",module,Magento_Catalog
 "You saved the category.","Vous avez enregistré la catégorie.",module,Magento_Catalog
 "A total of %1 record(s) were updated.","Aucun type de produit n'est défini pour l'indexer.",module,Magento_Catalog
 Catalog,Catalogue,module,Magento_Catalog
@@ -824,7 +822,6 @@ Disabled,Désactivé,module,Magento_Catalog
 "Such product doesn't exist","Ce produit n’existe pas",module,Magento_Catalog
 "Such image doesn't exist","Cette image n’existe pas",module,Magento_Catalog
 "We couldn't move this file: %1.","Nous ne pouvions pas déplacer ce fichier : %1.",module,Magento_Catalog
-"We can't find the image file.","Nous ne pouvons pas trouver le fichier image.",module,Magento_Catalog
 "Select type options required values rows.","Sélectionner les lignes des valeurs obligatoires des options",module,Magento_Catalog
 "Please specify date required option(s).","Spécifiez la ou les option(s) de date obligatoire(s).",module,Magento_Catalog
 "Please specify time required option(s).","Spécifiez la ou les option(s) d'heure obligatoire(s).",module,Magento_Catalog
@@ -1091,8 +1088,6 @@ LocalizedException,Localisation,module,Magento_Cms
 "All Store Views","Toutes les vues magasin",module,Magento_Cms
 Edit,Éditer,module,Magento_Cms
 Delete,Supprimer,module,Magento_Cms
-"Delete ${ $.$data.title }","Supprimer ${ $.$data.title }",module,Magento_Cms
-"Delete ""${ $.$data.title }""","Supprimer ""${ $.$data.title }""",module,Magento_Cms
 View,Voir,module,Magento_Cms
 "No files found","Aucun fichier trouvé",module,Magento_Cms
 "Browse Files...","Parcourir les fichiers...",module,Magento_Cms
@@ -1346,12 +1341,6 @@ Customers,Clients,module,Magento_Customer
 "Page not found.","Page introuvable.",module,Magento_Customer
 "Online Customers","Clients en ligne",module,Magento_Customer
 "This account is not confirmed.","Ce compte n'est pas confirmé.",module,Magento_Customer
-"Please enter the first name.","Veuillez renseigner le prénom.",module,Magento_Customer
-"Please enter the last name.","Veuillez renseigner le nom de famille.",module,Magento_Customer
-"Please enter the street.","Veuillez renseigner la rue.",module,Magento_Customer
-"Please enter the city.","Veuillez renseigner la ville.",module,Magento_Customer
-"Please enter the zip/postal code.","Veuillez renseigner le code postal.",module,Magento_Customer
-"Please enter the country.","Veuillez renseigner le pays.",module,Magento_Customer
 "Please enter the state/province.","Veuillez renseigner le département.",module,Magento_Customer
 """%1"" is a required value.","La longueur de ""%1"" doit être égale ou inférieure à %2 caractères.",module,Magento_Customer
 "Per Website","Par site web",module,Magento_Customer
@@ -2618,7 +2607,6 @@ Discount,Remise,module,Magento_SalesRule
 Subtotal,Sous-total,module,Magento_SalesRule
 "Total Items Quantity","Quantité totale d'articles",module,Magento_SalesRule
 "Total Weight","Poids total",module,Magento_SalesRule
-"Payment Method","Mode de paiement",module,Magento_SalesRule
 "Shipping Method","Mode de livraison",module,Magento_SalesRule
 "Shipping Postcode","Code postal de livraison",module,Magento_SalesRule
 "Shipping Region","Région de livraison",module,Magento_SalesRule
@@ -3441,9 +3429,6 @@ Store,Magasin,module,Magento_UrlRewrite
 "URL Rewrite Management","Gestion de réécriture d'URL",module,Magento_UrlRewrite
 "Add URL Rewrite","Ajouter une réécriture d'URL",module,Magento_UrlRewrite
 Custom,Personnalisé,module,Magento_UrlRewrite
-"For category","Pour une catégorie",module,Magento_UrlRewrite
-"For product","Pour un produit",module,Magento_UrlRewrite
-"Create URL Rewrite:","Créer une réécriture d'URL :",module,Magento_UrlRewrite
 "URL Rewrites","Gestion de la réécriture d'URL",module,Magento_UrlRewrite
 "The URL Rewrite has been saved.","La réécriture d'URL a été sauvegardée.",module,Magento_UrlRewrite
 No,Non,module,Magento_UrlRewrite
@@ -3525,7 +3510,6 @@ Resources,Ressources,module,Magento_User
 Letter,Lettre,module,Magento_Usps
 Flat,Plat,module,Magento_Usps
 Parcel,Colis,module,Magento_Usps
-"Flat-Rate Box","Boîte taux fixe",module,Magento_Usps
 "Flat-Rate Envelope","Enveloppe taux fixe",module,Magento_Usps
 Rectangular,Rectangulaire,module,Magento_Usps
 Non-rectangular,"Non rectangulaire",module,Magento_Usps
@@ -3688,8 +3672,6 @@ Update,"Mettre à jour",module,Magento_Checkout
 Cancel,Annuler,module,Magento_Checkout
 "Save in address book","Enregistrer dans le carnet d'adresses",module,Magento_Checkout
 Login,Connexion,module,Magento_Checkout
-Close,Fermer,module,Magento_Checkout
-"Recently added item(s)","Derniers articles ajoutés",module,Magento_Checkout
 "See Details","Clé de sécurité",module,Magento_Checkout
 "Options Details","Détails des options",module,Magento_Checkout
 Remove,Supprimer,module,Magento_Checkout
@@ -3701,7 +3683,6 @@ Remove,Supprimer,module,Magento_Checkout
 "New Address","Nouvelle adresse",module,Magento_Checkout
 "Shipping Methods","Modes de livraison",module,Magento_Checkout
 Next,Suivant,module,Magento_Checkout
-"Items in Cart","Articles dans le panier",module,Magento_Checkout
 "View Details","Voir les détails",module,Magento_Checkout
 "Name: %name","Nom : %name",module,Magento_Contact
 "Phone Number: %telephone","Numéro de téléphone : %telephone",module,Magento_Contact
@@ -4127,7 +4108,6 @@ Details,Détails,module,Magento_Catalog
 "Display Cart Summary","Afficher le résumé du panier",module,Magento_Checkout
 "Shopping Cart Sidebar","Barre latérale du panier",module,Magento_Checkout
 "Display Shopping Cart Sidebar","Afficher la barre latérale du panier",module,Magento_Checkout
-"Maximum Display Recently Added Item(s)","Nombre maxi d'articles récemment ajoutés à afficher",module,Magento_Checkout
 "Payment Failed Emails","Emails d'erreur de paiement",module,Magento_Checkout
 "Payment Failed Email Sender","Expéditeur du mail d'erreur de paiement",module,Magento_Checkout
 "Payment Failed Template","Gabarit d'erreur de paiement",module,Magento_Checkout
