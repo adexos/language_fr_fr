@@ -3745,6 +3745,7 @@ Remove,Supprimer,module,Magento_Checkout
 "New Address","Nouvelle adresse",module,Magento_Checkout
 "Shipping Methods","Modes de livraison",module,Magento_Checkout
 Next,Suivant,module,Magento_Checkout
+"Items in Cart","Articles dans le panier",module,Magento_Checkout
 "View Details","Voir les détails",module,Magento_Checkout
 "Contact Form","Formulaire de contact",module,Magento_Contact
 "Name: %name","Nom : %name",module,Magento_Contact
