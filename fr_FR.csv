@@ -1187,6 +1187,7 @@ some_comment,un_commentaire,module,Magento_Config
 Delete,Supprimer,module,Magento_Config
 "Current Configuration Scope:","Portée de la configuration courante :",module,Magento_Config
 Stores,Magasins,module,Magento_Config
+"Add configurable attributes to the current Attribute Set (""%1"")","En_US. csv",module,Magento_ConfigurableProduct
 "Attribute Values","Image de produit configurable",module,Magento_ConfigurableProduct
 "Create New Attribute","Créer un nouvel attribut",module,Magento_ConfigurableProduct
 "Select Attributes","Sélectionnez les attributs",module,Magento_ConfigurableProduct
