@@ -17,14 +17,14 @@ Translation progress:![Progress](http://progressed.io/bar/66)
 To install this translation package with composer you need access to the command line of your server and you need to have [Composer](https://getcomposer.org).
 ```
 cd <your magento path>
-composer require magento2translations/language_fr_fr:dev-master
+composer require adexos/language_fr_fr:dev-master
 php bin/magento cache:clean
 ```
 ## Manually
 To install this language package manually you need access to your server file system.
-* Download the zip file [here](https://github.com/Magento2Translations/language_fr_fr/archive/master.zip).
-* Upload the contents to `<your magento path>/app/i18n/magento2translations/language_fr_fr`.
-* The composer files should then be located like this `<your magento path>/app/i18n/magento2translations/fr_FR/fr_FR.csv`.
+* Download the zip file [here](https://github.com/adexos/language_fr_fr/archive/master.zip).
+* Upload the contents to `<your magento path>/app/i18n/adexos/language_fr_fr`.
+* The composer files should then be located like this `<your magento path>/app/i18n/adexos/fr_FR/fr_FR.csv`.
 * Go to your Magento admin panel and clear the caches.
 
 #Usage
