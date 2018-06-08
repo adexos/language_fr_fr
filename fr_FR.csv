@@ -165,7 +165,7 @@ Cancel,Annuler,module,Magento_Backend
 "Block Information",Information,module,Magento_Backend
 "Backup Options","Options de sauvegarde",module,Magento_Backend
 "Create DB Backup","Créer une sauvegarde de la BDD",module,Magento_Backend
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Backend
+Yes,"Oui",module,Magento_Backend
 No,Non,module,Magento_Backend
 "Delete Store","Supprimer le magasin",module,Magento_Backend
 "Delete Web Site","Supprimer le Site Web",module,Magento_Backend
@@ -644,7 +644,7 @@ Home,Accueil,module,Magento_CatalogSearch
 "Go to Home Page","Aller à la page d'accueil",module,Magento_CatalogSearch
 "Catalog Advanced Search","Recherche avancée dans le catalogue",module,Magento_CatalogSearch
 All,Tous,module,Magento_CatalogSearch
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_CatalogSearch
+Yes,"Oui",module,Magento_CatalogSearch
 No,Non,module,Magento_CatalogSearch
 Results,Résultats,module,Magento_CatalogSearch
 "Advanced Search Results","Résultat de recherche avancée",module,Magento_CatalogSearch
@@ -1507,7 +1507,7 @@ Store,Magasin,module,Magento_Config
 "HTTP (unsecure)","HTTP (non sécurisé)",module,Magento_Config
 "Yes (302 Found)","Oui (302 Document déplacé de façon temporaire)",module,Magento_Config
 "Yes (301 Moved Permanently)","Oui (301 Document déplacé de façon permanente)",module,Magento_Config
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Config
+Yes,"Oui",module,Magento_Config
 Specified,Spécifié,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Un modèle de clone de champs de formulaire de configuration est nécessaire pour pouvoir cloner les champs",module,Magento_Config
 "Invalid XML in file %1:\n%2","XML invalide dans le fichier %1: \n%2",module,Magento_Config
