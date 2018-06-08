@@ -295,9 +295,6 @@ YTD,"Depuis le début de l'année",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","La durée de vie de la session Admin doit être supérieure ou égale à 60 secondes",module,Magento_Backend
 Order,Commande,module,Magento_Backend
 "Order #%1","Commande n°%1",module,Magento_Backend
-"Access denied","Accès refusé",module,Magento_Backend
-"Please try to sign out and sign in again.","Veuillez vous déconnecter et vous reconnecter à nouveau.",module,Magento_Backend
-"If you continue to receive this message, please contact the store owner.","Si vous continuez à recevoir ce message merci de contacter le propriétaire du magasin.",module,Magento_Backend
 "You need more permissions to access this.","Nom d'utilisateur",module,Magento_Backend
 "Welcome, please sign in","Bienvenue, veuillez vous connecter",module,Magento_Backend
 Username,"Nom d'utilisateur",module,Magento_Backend
@@ -1241,7 +1238,7 @@ Compare,Comparer,module,Magento_Catalog
 "Clear All","Tout supprimer",module,Magento_Catalog
 Prev,Précédent,module,Magento_Catalog
 Next,Suivant,module,Magento_Catalog
-"We can't find products matching the selection.","Nous ne pouvons pas trouver des produits correspondant à la sélection.",module,Magento_Catalog
+"We can't find products matching the selection.","Nous ne pouvons pas trouver de produits correspondants à la sélection.",module,Magento_Catalog
 "Learn More","En savoir plus",module,Magento_Catalog
 "Add to Compare","Ajouter au comparateur",module,Magento_Catalog
 "We found other products you might like!","Nous avons trouvé d'autres produits que vous pourriez aimer !",module,Magento_Catalog
@@ -1339,7 +1336,6 @@ Checkout,Commander,module,Magento_Checkout
 "Sorry, guest checkout is not available.","Désolé, le guest checkout n'est pas disponible.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Vous devez confirmer votre compte. Veuillez vérifier votre email pour le lien de confirmation ou <a href=""%1"">cliquez ici</a> pour un nouveau lien.",module,Magento_Checkout
 "Load customer quote error","Erreur lors du chargement du panier client",module,Magento_Checkout
-"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print""> Imprimer le reçu</a>",module,Magento_Checkout
 "Apply Discount Code","Appliquer le code promo",module,Magento_Checkout
 "Enter discount code","Entrez le code promo",module,Magento_Checkout
 "Apply Discount",Appliquer,module,Magento_Checkout
@@ -2878,7 +2874,6 @@ Title,Titre,module,Magento_ProductVideo
 "Hide from Product Page","Cacher sur la Page du produit",module,Magento_ProductVideo
 Role,Rôle,module,Magento_ProductVideo
 "Protocol isn't allowed","Le protocole n’est pas autorisé",module,Magento_ProductVideo
-"Disallowed file type.","Type de fichier interdit.",module,Magento_ProductVideo
 "Add Video","Ajouter une vidéo",module,Magento_ProductVideo
 "Browse to find or drag image here","Recherchez ou posez une image ici",module,Magento_ProductVideo
 "Delete video","Effacer la vidéo",module,Magento_ProductVideo
@@ -3419,8 +3414,6 @@ Pending,"En attente",module,Magento_Sales
 Refunded,Remboursé,module,Magento_Sales
 Canceled,Annulée,module,Magento_Sales
 "Unknown State","État inconnu",module,Magento_Sales
-"Could not delete the comment.","Impossible de supprimer le commentaire.",module,Magento_Sales
-"Could not save the comment.","Impossible de sauvegarder le commentaire.",module,Magento_Sales
 Paid,Payée,module,Magento_Sales
 "Unknown Status","Statut inconnu",module,Magento_Sales
 Ordered,Commandé,module,Magento_Sales
@@ -3567,7 +3560,6 @@ Comment,Commentaire,module,Magento_Sales
 "Link to the New Order","Lien vers la nouvelle commande",module,Magento_Sales
 "Link to the Previous Order","Lien vers la commande précédente",module,Magento_Sales
 "Placed from IP","Adresse IP",module,Magento_Sales
-"Edit Customer","Editer le client",module,Magento_Sales
 "Customer Name","Nom du client",module,Magento_Sales
 "Customer Group","Groupe de clients",module,Magento_Sales
 "Transaction Data","Données de transaction",module,Magento_Sales
@@ -4302,7 +4294,6 @@ Remove,Supprimer,module,Magento_Checkout
 "View and Edit Cart","Afficher et modifier le panier",module,Magento_Checkout
 "View Details","Voir les détails",module,Magento_Checkout
 "Contact Form","Formulaire de contact",module,Magento_Contact
-Phone,Téléphone,module,Magento_Contact
 "Welcome to %store_name.","Bienvenue sur %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter à notre site, utiliser ces informations d'identification lors de votre commande ou sur la page <a href=""%customer_url""> Mon compte</a> :",module,Magento_Customer
 Email:,"Email :",module,Magento_Customer
@@ -4417,8 +4408,6 @@ Footer,"Pied de page",theme,frontend/Magento/luma
 "Sorry, but something went wrong. Please contact the seller.","Désolé, un problème est survenu. Merci de contacter le vendeur.",module,Magento_Authorizenet
 "We could not detect a size.","Impossible de détecter le poids du fichier.",module,Magento_Backend
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Backend
-"Warning message","Message d’avertissement",module,Magento_Backend
-"This operation can take a long time","Cette opération peut prendre un certain temps",module,Magento_Backend
 "This payment is not available","Ce moyen de paiement n'est pas disponible",module,Magento_Braintree
 YY,AA,module,Magento_Braintree
 "Please try again with another form of payment.","Merci d'essayer à nouveau avec un autre mode de paiement",module,Magento_Braintree
@@ -4542,7 +4531,6 @@ Debug,Déboguage,module,Magento_Authorizenet
 Content,Contenu,module,Magento_Backend
 Elements,Éléments,module,Magento_Backend
 Schedule,Planning,module,Magento_Backend
-"Content translation","Traduction de contenu",module,Magento_Backend
 Settings,Paramètres,module,Magento_Backend
 Attributes,Attributs,module,Magento_Backend
 "Other Settings","Autres paramètres",module,Magento_Backend
