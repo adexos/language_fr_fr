@@ -1769,12 +1769,12 @@ Customers,Clients,module,Magento_Customer
 "A total of %1 record(s) were updated.","Aucun type de produit n'est défini pour l'indexer.",module,Magento_Customer
 "The customer will receive an email with a link to reset password.","Le client recevra un email avec un lien pour réinitialiser le mot de passe.",module,Magento_Customer
 "Something went wrong while resetting customer password.","Une erreur s'est produite lors de la réinitialisation du mot de passe du client.",module,Magento_Customer
-"You saved the customer.","Vous sauvez le client.",module,Magento_Customer
+"You saved the customer.","Vous avez sauvegardé le client.",module,Magento_Customer
 "Something went wrong while saving the customer.","Une erreur s'est produite lors de l'enregistrement des clients.",module,Magento_Customer
 "Page not found.","Page introuvable.",module,Magento_Customer
-"Customer has been unlocked successfully.","Le client a été ouvert avec succès.",module,Magento_Customer
+"Customer has been unlocked successfully.","Le client a été débloqué avec succès.",module,Magento_Customer
 "Online Customers","Clients en ligne",module,Magento_Customer
-"Customers Now Online","Le client est en ligne maintenant",module,Magento_Customer
+"Customers Now Online","Clients actuellement en ligne",module,Magento_Customer
 "Please define Wish List item ID.","Veuillez spécifier l'ID de l'élément de la liste de souhaits.",module,Magento_Customer
 "Please load Wish List item.","Veuillez charger l'article de la liste de souhaits.",module,Magento_Customer
 "Login successful.","Connexion réussie.",module,Magento_Customer
@@ -1935,7 +1935,7 @@ Password,"Mot de passe",module,Magento_Customer
 "Confirm Password","Confirmer le mot de passe",module,Magento_Customer
 "Create an Account","Créer un compte",module,Magento_Customer
 "Set a New Password","Définir un nouveau mot de passe",module,Magento_Customer
-"You have signed out and will go to our homepage in 5 seconds.","Vous avez été dehors et irons à notre page d'accueil dans 5 secondes.",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","Vous avez été déconnecté et allez être redirigé vers la page d'accueil dans 5 secondes.",module,Magento_Customer
 "New Customers","Nouveaux clients",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Créer un compte a de nombreux avantages: vérifier plus rapidement, enregistrer plus d'une adresse, suivre les commandes et plus encore.",module,Magento_Customer
 Company,Société,module,Magento_Customer
@@ -5170,7 +5170,7 @@ Addresses,Adresses,module,Magento_Customer
 "Edit Account Information","Éditer les informations du compte",module,Magento_Customer
 "Password forgotten","Mot de passe oublié",module,Magento_Customer
 "My Dashboard","Mon tableau de bord",module,Magento_Customer
-"You are signed out","Vous êtes dehors",module,Magento_Customer
+"You are signed out","Vous êtes déconnecté",module,Magento_Customer
 "Workflow type","Type d’automatisation de processus",module,Magento_Developer
 "Not available in production mode","Non disponible en mode production",module,Magento_Developer
 "Developer Client Restrictions","Restrictions client développeur",module,Magento_Developer
