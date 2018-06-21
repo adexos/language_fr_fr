@@ -5800,3 +5800,4 @@ Delete,Supprimer,module,Magento_Wishlist
 "Account Dashboard","Tableau de bord du compte",theme,frontend/Magento/luma
 "Address Book","Carnet d’adresses",theme,frontend/Magento/luma
 "Account Information","Informations du compte",theme,frontend/Magento/luma
+"Please enter a valid email address (Ex: johndoe@domain.com)","Saisissez un email valide. (Ex: johndoe@domain.com)"
