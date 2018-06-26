@@ -4252,7 +4252,7 @@ Back,Retour,module,Magento_Wishlist
 "Email addresses, separated by commas","Adresses email, séparées par des virgules",module,Magento_Wishlist
 "Last Added Items","Derniers articles ajoutés",module,Magento_Wishlist
 "Remove This Item","Retirer cet élément",module,Magento_Wishlist
-"Now Shopping by","Livraison #%shipment_id pour la commande #%order_id",theme,frontend/Magento/luma
+"Now Shopping by","Filtres actifs",theme,frontend/Magento/luma
 Previous,Précédent,theme,frontend/Magento/luma
 Remove,Supprimer,theme,frontend/Magento/luma
 "Remove This Item","Retirer cet élément",theme,frontend/Magento/luma
