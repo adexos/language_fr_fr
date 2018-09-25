@@ -206,6 +206,7 @@
 "Any","Tous",module,Magento_Backend
 "All Countries","Tous les pays",module,Magento_Backend
 "From","Depuis",module,Magento_Backend
+"from","depuis",module,Magento_Backend
 "To","À",module,Magento_Backend
 "Date selector","Sélecteur de date",module,Magento_Backend
 "[ deleted ]","[ effacé ]",module,Magento_Backend
@@ -5813,6 +5814,8 @@ Created,Créer...,module,Magento_Sales
 "Default Store View","Magasin par défaut",module,Magento_Backend
 "Filters","Filtres",module,Magento_Ui
 "Columns","Colonnes",module,Magento_Ui
+"New View","Nouvelle vue",module,Magento_Ui
+"Default View","Vue par défaut",module,Magento_Ui
 "Cart Price Rules","Règles de prix panier",module,Magento_CatalogRule
 "Newsletter Templates","Template de newsletter",module,Magento_Newsletter
 "All Customers","Clients",module,Magento_Customer
@@ -5821,5 +5824,11 @@ Created,Créer...,module,Magento_Sales
 "By Customers","Par clients",module,Magento_Review
 "By Products","Par produits",module,Magento_Review
 "Rating","Notation",module,Magento_Review
-"Tax Zones and Rates","Zones de taxex",module,Magento_Tax
+"Tax Zones and Rates","Zones de taxe",module,Magento_Tax
 "Please enter the same value again.","Veuillez saisir la même valeur.",module,Magento_Ui
+"Go to Advanced Reporting","Voir les rapports avancés",module,Magento_Analytics
+"Advanced Reporting","Rapport avancé",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Bénéficiez de nouvelles informations et maîtrisez les performances de votre entreprise en utilisant nos rapports produits, commandes et clients dynamiques adaptés aux données de vos clients.",module,Magento_Analytics
+"Apply Filters","Appliquer les filtres",module,Magento_Ui
+"Search by keyword","Recherche par mot clé",module,Magento_Ui
+"${ $.visible } out of ${ $.total } visible","${ $.visible } sur ${ $.total } visible",module,Magento_Ui
