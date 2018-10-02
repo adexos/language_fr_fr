@@ -3171,11 +3171,11 @@ Yes,"Oui",module,Magento_SalesRule
 "Are you sure you want to delete the selected coupon(s)?","Êtes-vous sûr(e) de vouloir effacer les bons de réduction sélectionnés ?",module,Magento_SalesRule
 Labels,Libellés,module,Magento_SalesRule
 "Store View Specific Labels","Libellés spécifiques par vue magasin",module,Magento_SalesRule
-Rule,"Flux RSS de la liste d'envies de %s",module,Magento_SalesRule
-Start,Commencer,module,Magento_SalesRule
-End,"Clé de cryptage",module,Magento_SalesRule
-Status,Statut,module,Magento_SalesRule
-Coupons/Discounts,Coupons/Réductions,module,Magento_SalesRule
+"Rule","Règle",module,Magento_SalesRule
+"Start","Début",module,Magento_SalesRule
+"End","Fin",module,Magento_SalesRule
+"Status","Statut",module,Magento_SalesRule
+"Coupons/Discounts","Coupons/Réductions",module,Magento_SalesRule
 "This rule no longer exists.","Cette règle n'existe plus.",module,Magento_SalesRule
 "Edit Rule","Éditer la règle",module,Magento_SalesRule
 "New Rule","Nouvelle règle",module,Magento_SalesRule
@@ -4477,7 +4477,7 @@ Ok,OK,module,Magento_Sales
 "Please enter a valid credit card number.","Veuillez saisir un numéro de carte bancaire valide.",module,Magento_Ui
 "Please select an option.","Sélectionnez une option",module,Magento_Ui
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Veuillez saisir un numéro de téléphone valide.",module,Magento_Ui
-"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","La longueur minimale de ce champ doit être égale ou supérieure à %1 symboles. Des espaces de début et de fin seront ignorées.",module,Magento_Ui
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","La longueur minimale de ce champ doit être égale ou supérieure à %1 symboles. Les espaces de début et de fin seront ignorés.",module,Magento_Ui
 "Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Veuillez utiliser ce format de date : jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 Décembre 2012.",module,Magento_Ui
 "Please enter a valid $ amount. For example $100.00.","Veuillez saisir un montant valide. Par exemple 100.00 €.",module,Magento_Ui
 "Please enter a number 0 or greater in this field.","Veuillez saisir un nombre supérieur ou égal à 0 dans ce champ.",module,Magento_Ui
@@ -5816,7 +5816,8 @@ Created,Créer...,module,Magento_Sales
 "Columns","Colonnes",module,Magento_Ui
 "New View","Nouvelle vue",module,Magento_Ui
 "Default View","Vue par défaut",module,Magento_Ui
-"Cart Price Rules","Règles de prix panier",module,Magento_CatalogRule
+"Cart Price Rules","Règles de prix panier",module,Magento_SalesRule
+"New Cart Price Rule","Nouvelle règle de prix panier",module,Magento_SalesRule
 "Newsletter Templates","Template de newsletter",module,Magento_Newsletter
 "All Customers","Clients",module,Magento_Customer
 "Now Online","Clients en ligne",module,Magento_Customer
@@ -5832,3 +5833,7 @@ Created,Créer...,module,Magento_Sales
 "Apply Filters","Appliquer les filtres",module,Magento_Ui
 "Search by keyword","Recherche par mot clé",module,Magento_Ui
 "${ $.visible } out of ${ $.total } visible","${ $.visible } sur ${ $.total } visible",module,Magento_Ui
+"Currently Active","Actuellement active",module,Magento_SalesRule
+"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Appliquez la règle uniquement aux éléments du panier répondant aux conditions suivantes (laissez ce champ vide pour tous les éléments).",module,Magento_SalesRule
+"Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle est appliquée à tous les produits)",module,Magento_SalesRule
+"Discard subsequent rules","Rejeter les règles suivantes",module,Magento_SalesRule
