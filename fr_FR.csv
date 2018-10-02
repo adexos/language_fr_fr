@@ -1588,10 +1588,10 @@ Cancel,Annuler,module,Magento_ConfigurableProduct
 "* Required Fields","* Champs obligatoires",module,Magento_Contact
 "Write Us",Écrivez-nous,module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Contactez nous et nous vous répondrons aussi rapidement que possible.",module,Magento_Contact
-Name,Nom,module,Magento_Contact
+"Name","Nom",module,Magento_Contact
 "Phone Number","Numéro de téléphone",module,Magento_Contact
 "What’s on your mind?","Que voulez vous nous dire ?",module,Magento_Contact
-Submit,Valider,module,Magento_Contact
+"Submit","Valider",module,Magento_Contact
 "Invalid domain name: %1","Nom de domaine non valide: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","Durée de vie de cookie non valide: %1",module,Magento_Cookie
 "Invalid cookie path","Chemin d'accès du cookie non valide",module,Magento_Cookie
@@ -1600,15 +1600,15 @@ Submit,Valider,module,Magento_Contact
 "<a href=""%1"">Learn more</a>.","<a href=""%1""> en savoir plus</a>.",module,Magento_Cookie
 "Allow Cookies","Autoriser les cookies",module,Magento_Cookie
 "We can't save the cron expression.","Impossible de sauvegarder l'expression de la tâche programmée",module,Magento_Cron
-Daily,Quotidien,module,Magento_Cron
-Weekly,"Hebdomadaire""Custom currency symbols were applied successfully.",module,Magento_Cron
-Monthly,Mensuel,module,Magento_Cron
+"Daily","Quotidien",module,Magento_Cron
+"Weekly","Hebdomadaire""Custom currency symbols were applied successfully.",module,Magento_Cron
+"Monthly","Mensuel",module,Magento_Cron
 "Invalid cron expression: %1","Expression du cron invalide: %1",module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Expression du cron invalide, modulo numérique attendu: %1",module,Magento_Cron
 "Some error","Une erreur",module,Magento_Cron
 "Save Currency Rates","Sauvegarder les taux de devises",module,Magento_CurrencySymbol
-Reset,Réinitialiser,module,Magento_CurrencySymbol
-Import,Importer,module,Magento_CurrencySymbol
+"Reset","Réinitialiser",module,Magento_CurrencySymbol
+"Import","Importer",module,Magento_CurrencySymbol
 "Manage Currency Rates","Gestion des taux des devises",module,Magento_CurrencySymbol
 "Import Service","Service d'importation",module,Magento_CurrencySymbol
 "Save Currency Symbols","Enregistrer les symboles de devise",module,Magento_CurrencySymbol
@@ -1618,7 +1618,7 @@ Import,Importer,module,Magento_CurrencySymbol
 "We can't initialize the import model.","Impossible d'initialiser le modèle d'importation.",module,Magento_CurrencySymbol
 "Currency Rates","Taux de change",module,Magento_CurrencySymbol
 "All valid rates have been saved.","Tous les taux valides ont été sauvegardés.",module,Magento_CurrencySymbol
-System,Système,module,Magento_CurrencySymbol
+"System","Système",module,Magento_CurrencySymbol
 "Old rate:","Ancien taux :",module,Magento_CurrencySymbol
 "Please specify a website.","Merci de spécifier un site web.",module,Magento_CustomerImportExport
 "Please specify an email.","Merci de spécifier un email.",module,Magento_CustomerImportExport
@@ -1648,8 +1648,8 @@ System,Système,module,Magento_CurrencySymbol
 "Reset Password","Réinitialiser le mot de passe",module,Magento_Customer
 "New Customer","Nouveau client",module,Magento_Customer
 "Save and Continue Edit","Sauvegarder et continuer à éditer",module,Magento_Customer
-Back,Retour,module,Magento_Customer
-"Please select",Sélectionnez,module,Magento_Customer
+"Back","Retour",module,Magento_Customer
+"Please select","Sélectionnez",module,Magento_Customer
 Reset,Réinitialiser,module,Magento_Customer
 Product,Produit,module,Magento_Customer
 SKU,Réf.,module,Magento_Customer
@@ -1663,7 +1663,7 @@ Delete,Supprimer,module,Magento_Customer
 "Last Date Unsubscribed","Date de dernière désinscription",module,Magento_Customer
 "No Newsletter Found","Pas de newsletter",module,Magento_Customer
 "Start date","Date de début ",module,Magento_Customer
-"End Date","Clé de chiffrement",module,Magento_Customer
+"End Date","Date de fin",module,Magento_Customer
 Subject,Sujet,module,Magento_Customer
 Status,Statut,module,Magento_Customer
 Sent,Envoyé,module,Magento_Customer
@@ -2190,7 +2190,7 @@ Template,Gabarit,module,Magento_Email
 "Are you sure you want to delete this template?","Êtes-vous sûr de vouloir supprimer le modèle ?",module,Magento_Email
 "The template did not load. Please review the log for details.","Le modèle n’a pas été chargé. Veuillez consulter le journal pour plus de détails.",module,Magento_Email
 "Change Encryption Key","Modifier la clé de chiffrement",module,Magento_EncryptionKey
-"Encryption Key","Clef de chiffrement",module,Magento_EncryptionKey
+"Encryption Key","Clé de chiffrement",module,Magento_EncryptionKey
 "New Encryption Key","Nouvelle clé de chiffrement",module,Magento_EncryptionKey
 "The encryption key is used to protect passwords and other sensitive data.","La clé de chiffrement est utilisée pour protéger les mots de passe et autres données sensibles.",module,Magento_EncryptionKey
 "Auto-generate a Key","Générer automatiquement une clé",module,Magento_EncryptionKey
@@ -4780,14 +4780,14 @@ Backorders,"Commande en rupture de stock",module,Magento_CatalogInventory
 "Use Config Settings","Utilisez les paramètres de configuration",module,Magento_CatalogInventory
 "Qty Uses Decimals","La quantité utilise des décimales",module,Magento_CatalogInventory
 "Allow Multiple Boxes for Shipping","Autoriser plusieurs colisages pour l'expédition",module,Magento_CatalogInventory
-Rule,"Flux RSS de la liste d'envies de %s",module,Magento_CatalogRule
-Start,Commencer,module,Magento_CatalogRule
-End,"Clé de cryptage",module,Magento_CatalogRule
-Status,Statut,module,Magento_CatalogRule
-Active,Actif,module,Magento_CatalogRule
-Inactive,Inactif,module,Magento_CatalogRule
+"Rule","Règle",module,Magento_CatalogRule
+"Start","Début",module,Magento_CatalogRule
+"End","Fin",module,Magento_CatalogRule
+"Status","Statut",module,Magento_CatalogRule
+"Active","Active",module,Magento_CatalogRule
+"Inactive","Inactive",module,Magento_CatalogRule
 "Web Site","Site Web",module,Magento_CatalogRule
-Back,Retour,module,Magento_CatalogRule
+"Back","Retour",module,Magento_CatalogRule
 "Rule Information","Informations règle",module,Magento_CatalogRule
 "Rule Name","Nom de la règle",module,Magento_CatalogRule
 Websites,"Sites web",module,Magento_CatalogRule
@@ -5834,6 +5834,7 @@ Created,Créer...,module,Magento_Sales
 "Search by keyword","Recherche par mot clé",module,Magento_Ui
 "${ $.visible } out of ${ $.total } visible","${ $.visible } sur ${ $.total } visible",module,Magento_Ui
 "Currently Active","Actuellement active",module,Magento_SalesRule
-"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Appliquez la règle uniquement aux éléments du panier répondant aux conditions suivantes (laissez ce champ vide pour tous les éléments).",module,Magento_SalesRule
-"Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle est appliquée à tous les produits)",module,Magento_SalesRule
+"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Appliquez la règle uniquement aux éléments du panier répondant aux conditions suivantes (laissez ce champ vide pour tous les éléments).",module,Magento_CatalogRule
+"Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle est appliquée à tous les produits)",module,Magento_CatalogRule
+"Apply the rule only if the following conditions are met (leave blank for all products).","Appliquez la règle uniquement si les conditions suivantes sont remplies (laissez vide pour tous les produits).",module,Magento_CatalogRule
 "Discard subsequent rules","Rejeter les règles suivantes",module,Magento_SalesRule
