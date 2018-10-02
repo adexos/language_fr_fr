@@ -1310,12 +1310,12 @@ State/Province,État/Région,module,Magento_Checkout
 "You added %1 to your shopping cart.","Vous avez ajouté %1 à votre panier.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_Checkout
 "Out of stock",Épuisé,module,Magento_Checkout
-"The coupon code ""%1"" is not valid.","Éditer les paramètres de l'article",module,Magento_Checkout
+"The coupon code ""%1"" is not valid.","Le code promo ""%1"" n'est pas valide.",module,Magento_Checkout
 "We can't remove the item.","Impossible d'enlever l'article.",module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 a été mis à jour dans votre panier.",module,Magento_Checkout
-"We can't update the item right now.","Impossible de mettre à jour l'article maintenant.",module,Magento_Checkout
-"We can't update the shopping cart.","Nous ne pouvons pas mettre à jour le panier d’achat.",module,Magento_Checkout
-Checkout,Commander,module,Magento_Checkout
+"We can't update the item right now.","Impossible de mettre à jour l'article.",module,Magento_Checkout
+"We can't update the shopping cart.","Nous ne pouvons pas mettre à jour le panier.",module,Magento_Checkout
+"Checkout","Commander",module,Magento_Checkout
 "Page not found.","Page introuvable.",module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Quelque chose s'est mal passé lors du traitement de votre commande. S'il vous plaît essayer à nouveau plus tard.",module,Magento_Checkout
@@ -1339,13 +1339,13 @@ Checkout,Commander,module,Magento_Checkout
 "Load customer quote error","Erreur lors du chargement du panier client",module,Magento_Checkout
 "Apply Discount Code","Appliquer le code promo",module,Magento_Checkout
 "Enter discount code","Entrez le code promo",module,Magento_Checkout
-"Apply Discount",Appliquer,module,Magento_Checkout
+"Apply Discount","Appliquer",module,Magento_Checkout
 "Cancel Coupon","Annuler le bon de réduction",module,Magento_Checkout
 "Shopping Cart Items","Articles du panier",module,Magento_Checkout
-Item,Article,module,Magento_Checkout
-Price,Prix,module,Magento_Checkout
-Qty,Qté,module,Magento_Checkout
-Subtotal,Sous-total,module,Magento_Checkout
+"Item","Article",module,Magento_Checkout
+"Price","Prix",module,Magento_Checkout
+"Qty","Qté",module,Magento_Checkout
+"Subtotal","Sous-total",module,Magento_Checkout
 "Continue Shopping","Continuer vos achats",module,Magento_Checkout
 "Clear Shopping Cart","Vider le panier",module,Magento_Checkout
 "Update Shopping Cart","Mettre à jour le panier",module,Magento_Checkout
@@ -1353,18 +1353,18 @@ Subtotal,Sous-total,module,Magento_Checkout
 "See price before order confirmation.","Voir le prix avant la confirmation de la commande",module,Magento_Checkout
 "What's this?","Qu'est-ce que c'est ?",module,Magento_Checkout
 "Edit item parameters","Éditer les paramètres de l'article",module,Magento_Checkout
-Edit,Éditer,module,Magento_Checkout
-"Remove item","Retirer l'article",module,Magento_Checkout
+"Edit","Éditer",module,Magento_Checkout
+"Remove item","Supprimer l'article",module,Magento_Checkout
 "You have no items in your shopping cart.","Votre panier est vide.",module,Magento_Checkout
 "Estimate Shipping and Tax","Estimer la livraison et la TVA",module,Magento_Checkout
-"Excl. Tax",HT,module,Magento_Checkout
-Loading...,"En cours de chargement...",module,Magento_Checkout
+"Excl. Tax","HT",module,Magento_Checkout
+"Loading...","En cours de chargement...",module,Magento_Checkout
 "Order #","Commande n°",module,Magento_Checkout
 "Proceed to Checkout",Commander,module,Magento_Checkout
 "Product Name","Nom de produit",module,Magento_Checkout
 "Incl. Tax",TTC,module,Magento_Checkout
 "Your order number is: %1.","Votre numéro de commande est : %1.",module,Magento_Checkout
-"Your order # is: <span>%1</span>.","Votre commande # est : <span>%1</span>.",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","Votre commande est : <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","Nous vous enverrons la confirmation de commande avec les détails et les informations de suivi.",module,Magento_Checkout
 "Static Blocks","Blocs statiques",module,Magento_Cms
 "Add New Block","Ajouter un nouveau bloc",module,Magento_Cms
