@@ -5834,7 +5834,18 @@ Created,Créer...,module,Magento_Sales
 "Search by keyword","Recherche par mot clé",module,Magento_Ui
 "${ $.visible } out of ${ $.total } visible","${ $.visible } sur ${ $.total } visible",module,Magento_Ui
 "Currently Active","Actuellement active",module,Magento_SalesRule
+"Currently Active","Actuellement active",module,Magento_CatalogRule
+"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Appliquez la règle uniquement aux éléments du panier répondant aux conditions suivantes (laissez ce champ vide pour tous les éléments).",module,Magento_SalesRule
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Appliquez la règle uniquement aux éléments du panier répondant aux conditions suivantes (laissez ce champ vide pour tous les éléments).",module,Magento_CatalogRule
+"Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle est appliquée à tous les produits)",module,Magento_SalesRule
 "Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle est appliquée à tous les produits)",module,Magento_CatalogRule
+"Apply the rule only if the following conditions are met (leave blank for all products).","Appliquez la règle uniquement si les conditions suivantes sont remplies (laissez vide pour tous les produits).",module,Magento_SalesRule
 "Apply the rule only if the following conditions are met (leave blank for all products).","Appliquez la règle uniquement si les conditions suivantes sont remplies (laissez vide pour tous les produits).",module,Magento_CatalogRule
 "Discard subsequent rules","Rejeter les règles suivantes",module,Magento_SalesRule
+"Discard subsequent rules","Rejeter les règles suivantes",module,Magento_CatalogRule
+"Discount amount is applied to subtotal only","Le montant de la remise est uniquement appliqué au sous-total",module,Magento_SalesRule
+"Discount amount is applied to subtotal only","Le montant de la remise est uniquement appliqué au sous-total",module,Magento_CatalogRule
+"Discount amount is applied to subtotal and shipping amount separately","Le montant de la remise est appliqué au sous-total et au montant de l'expédition séparément",module,Magento_SalesRule
+"Discount amount is applied to subtotal and shipping amount separately","Le montant de la remise est appliqué au sous-total et au montant de l'expédition séparément",module,Magento_CatalogRule
+"Usage limit enforced for logged in customers only.","Limite d'utilisation imposée pour les clients connectés uniquement.",module,Magento_SalesRule
+"Usage limit enforced for logged in customers only.","Limite d'utilisation imposée pour les clients connectés uniquement.",module,Magento_CatalogRule
