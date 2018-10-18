@@ -5849,3 +5849,11 @@ Created,Créer...,module,Magento_Sales
 "Discount amount is applied to subtotal and shipping amount separately","Le montant de la remise est appliqué au sous-total et au montant de l'expédition séparément",module,Magento_CatalogRule
 "Usage limit enforced for logged in customers only.","Limite d'utilisation imposée pour les clients connectés uniquement.",module,Magento_SalesRule
 "Usage limit enforced for logged in customers only.","Limite d'utilisation imposée pour les clients connectés uniquement.",module,Magento_CatalogRule
+"Grand Total (Base)","Total",module,Magento_Sales
+"Grand Total (Purchased)","Total (payé)",module,Magento_Sales
+"Purchase Point","Magasin",module,Magento_Sales
+"Purchase Date","Date d'achat",module,Magento_Sales
+"Bill-to Name","Nom de facturation",module,Magento_Sales
+"Ship-to Name","Nom de livraison",module,Magento_Sales
+"Sku","Ref",module,Magento_Sales
+"Signifyd Guarantee Decision","Garantie",module,Magento_Sales
