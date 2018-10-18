@@ -290,7 +290,7 @@
 "YTD","Depuis le début de l'année",module,Magento_Backend
 "2YTD","Depuis le début de l'année dernière",module,Magento_Backend
 "Authentication storage is incorrect.","Le stockage d'authentification est incorrect.",module,Magento_Backend
-"You did not sign in correctly or your account is temporarily disabled.","Erreur dans les paramètres de connexion ou votre compte est temporairement désactivé.",module,Magento_Backend
+"You did not sign in correctly or your account is temporarily disabled.","Identifiants invalides ou votre compte est temporairement désactivé.",module,Magento_Backend
 "Authentication error occurred.","Une erreur d'authentification s'est produite.",module,Magento_Backend
 "Admin session lifetime must be less than or equal to 31536000 seconds (one year)","La durée de vie de la session Admin doit être inférieure ou égale à 31536000 secondes (un an)",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","La durée de vie de la session Admin doit être supérieure ou égale à 60 secondes",module,Magento_Backend
@@ -1723,7 +1723,7 @@ Download,Télécharger,module,Magento_Customer
 "This confirmation key is invalid or has expired.","Ce confirmation La clé est invalide ou a expiré.",module,Magento_Customer
 "There was an error confirming the account","Là erreur s'est produite lors de la confirmation du compte",module,Magento_Customer
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","Toi vous êtes un client de TVA enregistré, Cliquez s'il vous plait <a href=""%1"">ici</a> pour entrer votre discours de livraison pour le calcul de la TVA correcte.",module,Magento_Customer
-"Thank you for registering with %1.","Merci de vous être enregistré avec %1.",module,Magento_Customer
+"Thank you for registering with %1.","Merci de vous être enregistré sur %1.",module,Magento_Customer
 "Please check your email for confirmation key.","Bail vérifier votre email pendant touche de confirmation.",module,Magento_Customer
 "This email does not require confirmation.","Cet email ne nécessite pas de confirmation.",module,Magento_Customer
 "Wrong email.","Email erroné.",module,Magento_Customer
@@ -1748,8 +1748,8 @@ Download,Télécharger,module,Magento_Customer
 "Please enter a new password.","Veuillez entrer un nouveau mot de passe.",module,Magento_Customer
 "You updated your password.","Vous mettez à jour votre mot de passe.",module,Magento_Customer
 "Something went wrong while saving the new password.","Une erreur s'est produite durant l'enregistrement du nouveau mot de passe.",module,Magento_Customer
-"You deleted the address.","Vous avez supprimé l'adresse.",module,Magento_Customer
-"You saved the address.","Vous enregistrez l'adresse.",module,Magento_Customer
+"You deleted the address.","L'adresse a bien été supprimée.",module,Magento_Customer
+"You saved the address.","L'adresse a bien été sauvegardée.",module,Magento_Customer
 "No customer ID defined.","Aucun ID client défini.",module,Magento_Customer
 "Please correct the quote items and try again.","Corrigez l'élément de citation et réessayez.",module,Magento_Customer
 "Something went wrong while saving file.","Une erreur s'est produite lors de l'enregistrement du fichier.",module,Magento_Customer
@@ -1906,9 +1906,9 @@ Store,Magasin,module,Magento_Customer
 "Please select a region, state or province.","Merci de sélectionner une région, un état ou une province.",module,Magento_Customer
 "Zip/Postal Code","Code postal",module,Magento_Customer
 "Country","Pays",module,Magento_Customer
-"It's a default billing address.","C'est l'adresse de facturation par défaut.",module,Magento_Customer
+"It's a default billing address.","Adresse de facturation par défaut.",module,Magento_Customer
 "Use as my default billing address","Utiliser comme adresse de facturation par défaut",module,Magento_Customer
-"It's a default shipping address.","Ceci est l'adresse de livraison par défaut.",module,Magento_Customer
+"It's a default shipping address.","Adresse de livraison par défaut.",module,Magento_Customer
 "Use as my default shipping address","Utiliser comme adresse de <strong>livraison</strong> par défaut",module,Magento_Customer
 "Save Address","Sauvegarder l'adresse",module,Magento_Customer
 "Go back",Retour,module,Magento_Customer
@@ -1922,7 +1922,7 @@ Store,Magasin,module,Magento_Customer
 "No Password","Pas de mot de passe",module,Magento_Customer
 "Confirm New Password","Confirmer le nouveau mot de passe",module,Magento_Customer
 "Save","Sauvegarder",module,Magento_Customer
-"Please enter your email address below to receive a password reset link.","Veuillez entrer votre adresse courriel ci-dessous pour recevoir le lien de réinitialisation du mot de passe.",module,Magento_Customer
+"Please enter your email address below to receive a password reset link.","Veuillez entrer votre adresse email pour recevoir un lien de réinitialisation.",module,Magento_Customer
 "Reset My Password","Réinitialiser mon mot de passe",module,Magento_Customer
 "Registered Customers","Clients enregistrés",module,Magento_Customer
 "If you have an account, sign in with your email address.","Si vous avez un compte, connectez-vous avec votre adresse e-mail.",module,Magento_Customer
@@ -5611,7 +5611,7 @@ Created,Créer...,module,Magento_Sales
 "Print Credit Memos","Imprimer les avoirs",module,Magento_Sales
 "Print All","Tout imprimer",module,Magento_Sales
 "Print Shipping Labels","Imprimer les étiquettes de livraison",module,Magento_Sales
-"Grand Total (Base)","Nom du client",module,Magento_Sales
+"Grand Total (Base)","Grand Total",module,Magento_Sales
 "Customer Email","Email du client",module,Magento_Sales
 "PDF Invoices","Factures en PDF",module,Magento_Sales
 "Refunds","Remboursements",module,Magento_Sales
@@ -5849,3 +5849,18 @@ Created,Créer...,module,Magento_Sales
 "Discount amount is applied to subtotal and shipping amount separately","Le montant de la remise est appliqué au sous-total et au montant de l'expédition séparément",module,Magento_CatalogRule
 "Usage limit enforced for logged in customers only.","Limite d'utilisation imposée pour les clients connectés uniquement.",module,Magento_SalesRule
 "Usage limit enforced for logged in customers only.","Limite d'utilisation imposée pour les clients connectés uniquement.",module,Magento_CatalogRule
+"Please enter a valid email address (Ex: johndoe@domain.com).","Veuillez saisir une adresse email valide.",module,Magento_Ui
+"You used coupon code ""%1"".","Le code de réduction ""%1"" a bien été ajouté à votre panier.",module,Magento_Checkout
+"Forgot Your Password","Mot de passe oublié",module,Magento_Customer
+"We have saved your subscription.","Vous êtes désormais abonné à la newsletter.",module,Magento_Newsletter
+"We have removed your newsletter subscription.","Votre désabonnement a bien été pris en compte.",module,Magento_Newsletter
+"Guest checkout is disabled.","Le passage de commande en tant qu'invité n'est pas autorisé.",module,Magento_Customer
+"Guest checkout is disabled.","Le passage de commande en tant qu'invité n'est pas autorisé.",module,Magento_Checkout
+"Grand Total (Base)","Total",module,Magento_Sales
+"Grand Total (Purchased)","Total (payé)",module,Magento_Sales
+"Purchase Point","Magasin",module,Magento_Sales
+"Purchase Date","Date d'achat",module,Magento_Sales
+"Bill-to Name","Nom de facturation",module,Magento_Sales
+"Ship-to Name","Nom de livraison",module,Magento_Sales
+"Sku","Ref",module,Magento_Sales
+"Signifyd Guarantee Decision","Garantie",module,Magento_Sales
