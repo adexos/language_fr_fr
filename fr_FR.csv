@@ -1795,7 +1795,7 @@ Customers,Clients,module,Magento_Customer
 "Reset password token mismatch.","Réinitialiser le mot de passe d'incompatibilité de jeton.",module,Magento_Customer
 "Reset password token expired.","La réinitialisation du mot de passe a expiré.",module,Magento_Customer
 "Please correct the transactional account email type.","Corrigez le type d'e-mail du compte transactionnel.",module,Magento_Customer
-"""%1"" is a required value.","La longueur de ""%1"" doit être égale ou inférieure à %2 caractères.",module,Magento_Customer
+"""%1"" is a required value.","""%1"" est obligatoire.",module,Magento_Customer
 "Per Website","Par site web",module,Magento_Customer
 "Billing Address","Adresse de facturation",module,Magento_Customer
 "Shipping Address","Adresse de livraison",module,Magento_Customer
@@ -2093,7 +2093,7 @@ Dropdown,"Liste déroulante",module,Magento_Eav
 "Input type ""%value%"" not found in the input types list.","Le type d'entrée ""%value%"" n'a pas été trouvé dans la liste des types d'entrée.",module,Magento_Eav
 "Attribute object is undefined","L'objet attribut est indéfini",module,Magento_Eav
 "Entity object is undefined","L'objet entité n'est pas défini",module,Magento_Eav
-"""%1"" is a required value.","La longueur de ""%1"" doit être égale ou inférieure à %2 caractères.",module,Magento_Eav
+"""%1"" is a required value.","""%1"" est obligatoire.",module,Magento_Eav
 "Entity is not initialized","L'entité n'est pas initialisée.",module,Magento_Eav
 "Unknown parameter","Paramètre inconnu.",module,Magento_Eav
 "Invalid default decimal value","Valeur décimale par défaut non valide",module,Magento_Eav
