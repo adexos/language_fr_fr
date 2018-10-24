@@ -5860,4 +5860,4 @@ Created,Créer...,module,Magento_Sales
 "Signifyd Guarantee Decision","Garantie",module,Magento_Sales
 "Display","Affichage",module,Magento_Catalog
 "Display type","Type d'affichage",module,Magento_Catalog
-"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2" target=""_blank"">Magento cron job</a> is running.","Un ou plusieurs <a href=""%1"">indexes sont invalides</a>. Assurez-vous que <a href=""%2"" target=""_blank"">le système cron de Magento</a> est fonctionnel.",module,Magento_Indexer
+"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Un ou plusieurs <a href=""%1"">indexes sont invalides</a>. Assurez-vous que <a href=""%2"" target=""_blank"">le système cron de Magento</a> est fonctionnel.",module,Magento_Indexer
