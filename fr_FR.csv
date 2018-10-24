@@ -91,7 +91,7 @@
 "You entered an invalid Secret Key. Please refresh the page.","Vous avez entré une clé secrète non valide. Merci d'actualiser la page.",module,Magento_Backend
 "Cache Storage Management","Gestion du cache",module,Magento_Backend
 "Flush Magento Cache","Purger le cache Magento",module,Magento_Backend
-"The cache storage may contain additional data. Are you sure that you want to flush it?","Le stockage de cache peut contenir d'autres données. Êtes-vous sûr de vouloir le vider ?",module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?","Le stockage de cache peut contenir d\'autres données. Êtes-vous sûr de vouloir le vider ?",module,Magento_Backend
 "Flush Cache Storage","Purger le stockage du cache",module,Magento_Backend
 "Invalidated","Invalidé",module,Magento_Backend
 "Orders","Commandes",module,Magento_Backend
@@ -229,8 +229,8 @@
 "The JavaScript/CSS cache has been cleaned.","Le cache javascript/CSS a été nettoyé.",module,Magento_Backend
 "An error occurred while clearing the JavaScript/CSS cache.","Erreur lors de la purge du cache javascript/CSS.",module,Magento_Backend
 "The static files cache has been cleaned.","Le cache des fichiers statiques a été nettoyé.",module,Magento_Backend
-"You flushed the cache storage.","Vous purgez le stockage du cache.",module,Magento_Backend
-"The Magento cache storage has been flushed.","Le cache Magento a été purgé.",module,Magento_Backend
+"You flushed the cache storage.","Le stockage du cache a été nettoyé.",module,Magento_Backend
+"The Magento cache storage has been flushed.","Le cache Magento a été nettoyé.",module,Magento_Backend
 "Cache Management","Gestion du cache",module,Magento_Backend
 "You can't change status of cache type(s) in production mode","Vous ne pouvez pas modifier le(s) statut(s) du cache en mode production",module,Magento_Backend
 "%1 cache type(s) disabled.","%1 type(s) de cache désactivé(s).",module,Magento_Backend
