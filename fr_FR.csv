@@ -26,7 +26,8 @@
 "Wrong message type","Mauvais type de message.",module,Magento_AdminNotification
 "Wrong notification ID specified.","ID de notification incorrecte.",module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","L'utilisation de {{base_url}} n'est pas recommandée dans un environnement de production. Nous vous recommandons de modifier cette valeur dans votre <a href=""%1"">configuration</a> Magento.",module,Magento_AdminNotification
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","S.V.P. aller la page de <a href=""%1"">gestion de cache</a> et actualisation les types de cache.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Un ou plusieurs types de cache sont invalides : %1. ",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Rendez-vous dans la <a href=""%1"">gestion du cache</a> pour actualiser les types de cache nécessaires.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","Un ou plusieurs fichiers médias n'ont pas pu être synchronisés. Veuillez consulter le fichier journal pour plus de détails.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","La synchronisation du stockage des médias est terminée.",module,Magento_AdminNotification
 "Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Votre serveur web est mal configuré et permet l'accès non autorisé à des fichiers sensibles. ' 'Veuillez contacter votre hébergeur.",module,Magento_AdminNotification
@@ -236,7 +237,7 @@
 "An error occurred while disabling cache.","Une erreur s'est produite lors de la désactivation de cache.",module,Magento_Backend
 "%1 cache type(s) enabled.","%s type(s) de cache activé(s).",module,Magento_Backend
 "An error occurred while enabling cache.","Une erreur s'est produite lors de l'activation de cache.",module,Magento_Backend
-"%1 cache type(s) refreshed.","%1 type(s) de cache rafraîchi.",module,Magento_Backend
+"%1 cache type(s) refreshed.","%s type(s) de cache actualisé(s).",module,Magento_Backend
 "An error occurred while refreshing cache.","Une erreur s'est produite lors de l'actualisation du cache.",module,Magento_Backend
 "Dashboard","Tableau de bord",module,Magento_Backend
 "We updated lifetime statistic.","Les statistiques depuis l'ouverture de la boutique ont été mise à jour.",module,Magento_Backend
@@ -732,7 +733,7 @@ Scope,Portée,module,Magento_Catalog
 "Storefront Properties","Propriétés du front office",module,Magento_Catalog
 "Use in Search","Utiliser dans la recherche",module,Magento_Catalog
 "Visible in Advanced Search","Visible dans la recherche avancée",module,Magento_Catalog
-"Comparable on Storefront","Comparable sur la vitrine magasin",module,Magento_Catalog
+"Comparable on Storefront","Comparable",module,Magento_Catalog
 "Use for Promo Rule Conditions","Utiliser pour les conditions de règles de promotions",module,Magento_Catalog
 "Enable WYSIWYG","Activer l'éditeur WYSIWYG",module,Magento_Catalog
 "Allow HTML Tags on Storefront","Permettre les balises HTML sur la vitrine",module,Magento_Catalog
@@ -877,7 +878,7 @@ Catalog,Catalogue,module,Magento_Catalog
 "Something went wrong while saving the attribute.","Une erreur s'est produite lors de l'enregistrement de l'attribut",module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Le code de l'attribut ""%1"" est invalide. Merci d'utiliser uniquement des lettres (a-z), des chiffres (0-9) ou des underscores (_) dans ce champ. Le premier caractère doit être une lettre.",module,Magento_Catalog
 "We can't update the attribute.","Nous ne pouvons pas mettre à jour l’attribut.",module,Magento_Catalog
-"You saved the product attribute.","Vous avez sauvegardé l'attribut produit.",module,Magento_Catalog
+"You saved the product attribute.","L'attribut produit a bien été sauvegardé.",module,Magento_Catalog
 "An attribute with this code already exists.","Un attribut avec le même code existe déjà.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Un attribut avec le même code (%1) existe déjà.",module,Magento_Catalog
 "The value of Admin must be unique.","La valeur de l’Admin doit être unique.",module,Magento_Catalog
@@ -2070,7 +2071,7 @@ Refunded,Remboursé,module,Magento_Downloadable
 "Default Label","Libellé par défaut",module,Magento_Eav
 "Attribute Code","Code d'attribut",module,Magento_Eav
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Nom qui apparaîtra sous votre application lorsque les utilisateurs l'installeront sur leur terminal. Nous vous recommandons d'utiliser un nom de 10 à 12 caractères reconnaissable par vos clients.",module,Magento_Eav
-"Catalog Input Type for Store Owner","Type d'entrée catalogue pour le propriétaire du magasin",module,Magento_Eav
+"Catalog Input Type for Store Owner","Type d'entrée catalogue",module,Magento_Eav
 "Values Required","Valeurs requises",module,Magento_Eav
 "Default Value","Valeur par défaut",module,Magento_Eav
 "Unique Value","Valeur unique",module,Magento_Eav
@@ -5857,3 +5858,6 @@ Created,Créer...,module,Magento_Sales
 "Ship-to Name","Nom de livraison",module,Magento_Sales
 "Sku","Ref",module,Magento_Sales
 "Signifyd Guarantee Decision","Garantie",module,Magento_Sales
+"Display","Affichage",module,Magento_Catalog
+"Display type","Type d'affichage",module,Magento_Catalog
+"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2" target=""_blank"">Magento cron job</a> is running.","Un ou plusieurs <a href=""%1"">indexes sont invalides</a>. Assurez-vous que <a href=""%2"" target=""_blank"">le système cron de Magento</a> est fonctionnel.",module,Magento_Indexer
