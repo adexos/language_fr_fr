@@ -727,7 +727,8 @@ Cancel,Annuler,module,Magento_Catalog
 "Use in Filter Options","Utiliser dans les Options de Filtre",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Sélectionnez « Oui » pour ajouter cet attribut à la liste des options de filtrage dans la grille de produit.",module,Magento_Catalog
 "Store View","Vue magasin",module,Magento_Catalog
-Website,"Site web""%s and greater",module,Magento_Catalog
+"Website","Site web",module,Magento_Catalog
+"%1 and greater","%1 et plus",module,Magento_Catalog
 Scope,Portée,module,Magento_Catalog
 "Declare attribute value saving scope.","Déclarer la portée d'économie de valeurs d'attributs.",module,Magento_Catalog
 "Storefront Properties","Propriétés du front office",module,Magento_Catalog
@@ -1505,7 +1506,8 @@ title,Title,module,Magento_Config
 No,Non,module,Magento_Config
 Optional,Facultatif,module,Magento_Config
 Required,Obligatoire,module,Magento_Config
-Website,"Site web""%s and greater",module,Magento_Config
+Website,"Site web",module,Magento_Config
+"%1 and greater","%1 et plus",module,Magento_Config
 Store,Magasin,module,Magento_Config
 "Store View","Vue magasin",module,Magento_Config
 "HTTP (unsecure)","HTTP (non sécurisé)",module,Magento_Config
@@ -4162,7 +4164,8 @@ message,Message,module,Magento_Webapi
 "Fixed Product Tax","Taxe Fixe de Produit",module,Magento_Weee
 Country/State,"Pays / État",module,Magento_Weee
 Tax,"TVA & autres taxes",module,Magento_Weee
-Website,"Site web""%s and greater",module,Magento_Weee
+Website,"Site web",module,Magento_Weee
+"%1 and greater","%1 et plus",module,Magento_Weee
 "Excl. Tax",HT,module,Magento_Weee
 "Incl. Tax",TTC,module,Magento_Weee
 "Total Incl. Tax","Total TTC",module,Magento_Weee
@@ -4320,8 +4323,8 @@ Password:,"Mot de passe :",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Nous avons reçu une demande pour modifier les informations suivantes associées à votre compte à l' %store_name: e-mail, mot de passe.",module,Magento_Customer
 "Reset your %store_name password","Réinitialiser votre mot de passe %store_name",module,Magento_Customer
 "There was recently a request to change the password for your account.","Nous avons reçu une demande de changement de mot de passe pour votre compte.",module,Magento_Customer
-"If you requested this change, set a new password here:","Si vous avez demandé ce changement, définir un nouveau mot de passe ici:",module,Magento_Customer
-"If you did not make this request, you can ignore this email and your password will remain the same.","Si vous n'avez pas fait cette demande, vous pouvez ignorer cet e-mail et votre mot de passe restera le même.",module,Magento_Customer
+"If you requested this change, set a new password here:","Si vous avez demandé ce changement, vous pourrez définir un nouveau mot de passe en cliquant sur lien ci-dessous :",module,Magento_Customer
+"If you did not make this request, you can ignore this email and your password will remain the same.","Si vous n'êtes pas à l'origine de cette demande, vous pouvez ignorer cet e-mail et votre mot de passe restera le même.",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","Nous avons reçu une demande pour modifier les informations suivantes associées à votre compte à l' %store_name: le mot de passe.",module,Magento_Customer
 "Creating an account has many benefits:","Créer un compte a de nombreux avantages:",module,Magento_Customer
 "See order and shipping status","Voir la commande et l'état d'expédition",module,Magento_Customer
@@ -4363,7 +4366,7 @@ Delete,Supprimer,module,Magento_GiftMessage
 "Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'ont pas été enregistrées.",module,Magento_Ui
 Assign,Assigner,module,Magento_Ui
 "There was recently a request to change the password for your account.","Nous avons reçu une demande de changement de mot de passe pour votre compte.",module,Magento_User
-"If you did not make this request, you can ignore this email and your password will remain the same.","Si vous n'avez pas fait cette demande, vous pouvez ignorer cet e-mail et votre mot de passe restera le même.",module,Magento_User
+"If you did not make this request, you can ignore this email and your password will remain the same.","Si vous n'êtes pas à l'origine de cette demande, vous pouvez ignorer cet e-mail et votre mot de passe restera le même.",module,Magento_User
 "Welcome to %store_name","Bienvenue sur %store_name",theme,frontend/Magento/luma
 "Welcome to %store_name.","Bienvenue sur %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter à notre site, utiliser ces informations d'identification lors de votre commande ou sur la page <a href=""%customer_url""> Mon compte</a> :",theme,frontend/Magento/luma
@@ -5601,7 +5604,8 @@ Template,Gabarit,module,Magento_Sales
 Name,Nom,module,Magento_Sales
 Phone,Téléphone,module,Magento_Sales
 "ZIP/Post Code","ZIP/Code postal",module,Magento_Sales
-Website,"Site web""%s and greater",module,Magento_Sales
+Website,"Site web",module,Magento_Sales
+"%1 and greater","%1 et plus",module,Magento_Sales
 Created,Créer...,module,Magento_Sales
 "Invoice Date","Date de facturation",module,Magento_Sales
 "Default Status","Statut par défaut",module,Magento_Sales
@@ -5624,7 +5628,8 @@ Created,Créer...,module,Magento_Sales
 "Edit,Éditer,module,Magento_Search
 "Scope","Portée",module,Magento_Search
 "Store View","Vue magasin",module,Magento_Search
-"Website","Site web""%s and greater",module,Magento_Search
+"Website","Site web",module,Magento_Search
+"%1 and greater","%1 et plus",module,Magento_Search
 "Email to a Friend","Envoyer à un ami",module,Magento_SendFriend
 "Email Templates","Gabarits d'email",module,Magento_SendFriend
 "Enabled","Activé",module,Magento_SendFriend
@@ -5863,3 +5868,9 @@ Created,Créer...,module,Magento_Sales
 "Display","Affichage",module,Magento_Catalog
 "Display type","Type d'affichage",module,Magento_Catalog
 "One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Un ou plusieurs <a href=""%1"">indexes sont invalides</a>. Assurez-vous que <a href=""%2"" target=""_blank"">le système cron de Magento</a> est fonctionnel.",module,Magento_Indexer
+"Continue to PayPal","Continuer avec PayPal",module,Magento_Paypal
+"Newsletter subscription success","Confirmation d'abonnement à la newsletter",module,Magento_Newsletter
+"Newsletter unsubscription success","Confirmation de désabonnement à la newsletter",module,Magento_Newsletter
+"You have been successfully subscribed to our newsletter.","Vous avez été inscrit à notre newsletter avec succès.",module,Magento_Newsletter
+"Save configuration","Sauvegarder la configuration",module,Magento_Theme
+"Save and Continue","Sauvegarder et continuer",module,Magento_Theme
