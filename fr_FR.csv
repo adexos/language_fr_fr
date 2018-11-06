@@ -4318,15 +4318,15 @@ Password:,"Mot de passe :",module,Magento_Customer
 "Confirm Your Account","Confirmez votre compte",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Merci pour confirmer votre compte %store_name.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Pour vous connecter à notre site et définir un mot de passe, cliquez sur <a href=""%create_password_url"">lien</a>:",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email.","Nous avons reçu une demande pour modifier les informations suivantes associées à votre compte à l' %store_name: e-mail.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email.","Nous avons reçu une demande de modification pour les informations suivantes associées à votre compte %store_name : e-mail.",module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Si vous n’avez pas autorisé cette action, merci de nous contacter immédiatement à <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","ou appelez-nous au <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email, password.","Nous avons reçu une demande pour modifier les informations suivantes associées à votre compte à l' %store_name: e-mail, mot de passe.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email, password.","Nous avons reçu une demande de modification pour les informations suivantes associées à votre compte %store_name : e-mail, mot de passe.",module,Magento_Customer
 "Reset your %store_name password","Réinitialiser votre mot de passe %store_name",module,Magento_Customer
 "There was recently a request to change the password for your account.","Nous avons reçu une demande de changement de mot de passe pour votre compte.",module,Magento_Customer
-"If you requested this change, set a new password here:","Si vous avez demandé ce changement, vous pourrez définir un nouveau mot de passe en cliquant sur lien ci-dessous :",module,Magento_Customer
+"If you requested this change, set a new password here:","Si vous avez demandé ce changement, vous pourrez définir un nouveau mot de passe en cliquant sur le lien ci-dessous :",module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Si vous n'êtes pas à l'origine de cette demande, vous pouvez ignorer cet e-mail et votre mot de passe restera le même.",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: password.","Nous avons reçu une demande pour modifier les informations suivantes associées à votre compte à l' %store_name: le mot de passe.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: password.","Nous avons reçu une demande de modification pour les informations suivantes associées à votre compte à %store_name : mot de passe.",module,Magento_Customer
 "Creating an account has many benefits:","Créer un compte a de nombreux avantages:",module,Magento_Customer
 "See order and shipping status","Voir la commande et l'état d'expédition",module,Magento_Customer
 "Track order history","Suivre l'historique des commandes",module,Magento_Customer
@@ -4612,9 +4612,9 @@ Host,Serveur,module,Magento_Backend
 "Return-Path Email","Adresse email de réponse",module,Magento_Backend
 Admin,Administration,module,Magento_Backend
 "Admin User Emails","Emails de l'administrateur",module,Magento_Backend
-"Forgot Password Email Template","Gabarit du mail d'oubli de mot de passe",module,Magento_Backend
+"Forgot Password Email Template","Email de mot de passe oublié",module,Magento_Backend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Backend
-"Forgot and Reset Email Sender","Expéditeur du mail d'oubli et de réinitialisation du mot de passe",module,Magento_Backend
+"Forgot and Reset Email Sender","Expéditeur du mail de mot de passe oublié et de réinitialisation",module,Magento_Backend
 "Startup Page","Page de démarrage",module,Magento_Backend
 "Admin Base URL","URL de base de l'admin",module,Magento_Backend
 "Use Custom Admin URL","Utiliser une URL d'admin personnalisée",module,Magento_Backend
@@ -5116,21 +5116,26 @@ Currency,Devise,module,Magento_CurrencySymbol
 "Default Welcome Email Without Password","Email de bienvenue par défaut sans mot de passe",module,Magento_Customer
 "Email Sender","Expéditeur du mail",module,Magento_Customer
 "Require Emails Confirmation","Nécessite la confirmation par email",module,Magento_Customer
-"Confirmation Link Email","Email de lien de confirmation",module,Magento_Customer
+"Confirmation Link Email","Email du lien de confirmation",module,Magento_Customer
 "Welcome Email","Email de bienvenue",module,Magento_Customer
 "Generate Human-Friendly Customer ID","Générer un ID client facile à lire",module,Magento_Customer
 "Password Options","Options de mot de passe",module,Magento_Customer
-"Forgot Email Template","Gabarit du mail d'oubli",module,Magento_Customer
-"Remind Email Template","Template d'email de rappel",module,Magento_Customer
-"Reset Password Template","Réinitialiser le modèle",module,Magento_Customer
-"Password Template Email Sender","Modèle de modèle d'email",module,Magento_Customer
+"Forgot Email Template","Email du mot de passe oublié",module,Magento_Customer
+"Remind Email Template",Email de rappel",module,Magento_Customer
+"Reset Password Template","Email de réinitialisation de mot de passe",module,Magento_Customer
+"Password Template Email Sender","Expéditeur de l'email",module,Magento_Customer
 "Please enter a number 1 or greater in this field.","Veuillez saisir un nombre supérieur ou égal à 1.",module,Magento_Customer
 "Number of Required Character Classes","Nombre de classes de caractères requises",module,Magento_Customer
-"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Le nombre de classes de caractères différentes requises dans le mot de passe: Lettre Petite, Majuscules, Chiffres, Caractères spéciaux.",module,Magento_Customer
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Le nombre de classes de caractères différentes requises dans le mot de passe: Minuscules, Majuscules, Chiffres, Caractères spéciaux.",module,Magento_Customer
+"Minimum Password Length","Longueur minimale du mot de passe",module,Magento_Customer
+"Lockout Time (minutes)","Temps de blocage (minutes)"
 "Maximum Login Failures to Lockout Account","Échec de la connexion maximale pour le verrouillage du compte",module,Magento_Customer
 "Enable Autocomplete on login/forgot password forms","Activer la saisie semi-automatique sur login/mot de passe oublié formes",module,Magento_Customer
 "Account Information Options","Options d'informations sur le compte",module,Magento_Customer
-"Change Email Template","Changer le modèle d'email",module,Magento_Customer
+"Change Email Template","Changer le template de l'email",module,Magento_Customer
+"Show Telephone","Afficher le téléphone",module,Magento_Customer
+"Show Company","Afficher l'entreprise",module,Magento_Customer
+"Show Fax","Afficher le fax",module,Magento_Customer
 "Change Email and Password Template","Modifier les modèles de messagerie et les mots de passe",module,Magento_Customer
 "Name and Address Options","Options de nom et d'adresse",module,Magento_Customer
 "Number of Lines in a Street Address","Nombre de lignes dans l'adresse",module,Magento_Customer
@@ -5889,3 +5894,4 @@ Created,Créer...,module,Magento_Sales
 "Notes for this Order","Notes pour cette commande",module,Magento_Sales
 "Total Quantity","Quantité totale",module,Magento_Sales
 "Ship Date","Date de l'expédition",module,Magento_Sales
+"Your %store_name email has been changed","Votre email a été modifié.",module,Magento_Customer
