@@ -5895,3 +5895,6 @@ Created,Créer...,module,Magento_Sales
 "Total Quantity","Quantité totale",module,Magento_Sales
 "Ship Date","Date de l'expédition",module,Magento_Sales
 "Your %store_name email has been changed","Votre email a été modifié.",module,Magento_Customer
+"Hello,","Bonjour,",module,Magento_User
+"Hello,","Bonjour,",module,Magento_Customer
+"Thanks,","Merci,",module,Magento_User
