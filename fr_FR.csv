@@ -488,7 +488,7 @@
 "The options you selected are not available.","Les options que vous avez sélectionnées ne sont pas disponibles.",module,Magento_Bundle
 "The required options you selected are not available.","Les options obligatoires que vous avez sélectionnées ne sont pas disponibles.",module,Magento_Bundle
 "Please select all required options.","Veuillez sélectionner toutes les options requises.",module,Magento_Bundle
-"We can't add this item to your shopping cart right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_Bundle
+"We can't add this item to your shopping cart right now.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_Bundle
 "Percent","Pourcent",module,Magento_Bundle
 "We can't save custom-defined options for bundles with dynamic pricing.","Nous ne pouvons pas enregistrer les options personnalisées pour les forfaits avec tarification dynamique.",module,Magento_Bundle
 "Cancel","Annuler",module,Magento_Bundle
@@ -573,7 +573,7 @@ Always,Toujours,module,Magento_Captcha
 "Customer Group","Groupe de clients",module,Magento_CatalogInventory
 "Minimum Qty","Quantité mini",module,Magento_CatalogInventory
 "Add Minimum Qty","Ajouter une quantité mini",module,Magento_CatalogInventory
-"We can't rebuild the index for an undefined product.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_CatalogInventory
+"We can't rebuild the index for an undefined product.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_CatalogInventory
 "Could not rebuild index for empty products array","Impossible de charger le fichier : ""%s"".",module,Magento_CatalogInventory
 "The stock item for Product is not valid.","L'article en stock pour ce produit n'est pas valide.",module,Magento_CatalogInventory
 "This product is out of stock.","Ce produit est en rupture de stock.",module,Magento_CatalogInventory
@@ -632,7 +632,7 @@ Product,Produit,module,Magento_CatalogRule
 Catalog,Catalogue,module,Magento_CatalogRule
 "Something went wrong while saving the rule data. Please review the error log.","Quelque chose s'est mal passé, tout en économisant de la règle de données. Veuillez consulter le journal des erreurs.",module,Magento_CatalogRule
 "Could not rebuild index for empty products array","Impossible de charger le fichier : ""%s"".",module,Magento_CatalogRule
-"We can't rebuild the index for an undefined product.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_CatalogRule
+"We can't rebuild the index for an undefined product.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_CatalogRule
 "Catalog rule indexing failed. See details in exception log.","Catalogue de la règle d'indexation a échoué. Voir les détails dans le journal des exceptions.",module,Magento_CatalogRule
 "Update the Product","Mettre à jour le produit",module,Magento_CatalogRule
 "Rule price",prix,module,Magento_CatalogRule
@@ -965,7 +965,7 @@ Center,Centrer,module,Magento_Catalog
 "Something went wrong while saving the file(s).","Une erreur s'est produite lors de l'enregistrement du ou des fichiers.",module,Magento_Catalog
 "File can not be saved to the destination folder.","Fichier ne peut pas être enregistré dans le dossier de destination.",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Type d'indexer EAV inconnu : ""%1"".",module,Magento_Catalog
-"We can't rebuild the index for an undefined product.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_Catalog
+"We can't rebuild the index for an undefined product.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_Catalog
 "Bad value was supplied.","Valeur incorrecte fournie.",module,Magento_Catalog
 "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","Le module Catalogue plat a une limite de %2$d des attributs filtrables et/ou sortable. Il y a actuellement %1$d d'entre eux. Veuillez réduire le nombre d’attributs filtrables/sortable pour pouvoir utiliser ce module",module,Magento_Catalog
 "Unsupported product type ""%1"".","Type de produit non supporté ""%1"".",module,Magento_Catalog
@@ -1310,7 +1310,7 @@ State/Province,État/Région,module,Magento_Checkout
 "Your session has expired","Votre session a expiré",module,Magento_Checkout
 "A letter with further instructions will be sent to your email.","Une lettre avec d’autres instructions vous sera envoyée à votre adresse email.",module,Magento_Checkout
 "You added %1 to your shopping cart.","Vous avez ajouté %1 à votre panier.",module,Magento_Checkout
-"We can't add this item to your shopping cart right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_Checkout
+"We can't add this item to your shopping cart right now.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_Checkout
 "Out of stock",Épuisé,module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","Le code promo ""%1"" n'est pas valide.",module,Magento_Checkout
 "We can't remove the item.","Impossible d'enlever l'article.",module,Magento_Checkout
@@ -1322,7 +1322,7 @@ State/Province,État/Région,module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Quelque chose s'est mal passé lors du traitement de votre commande. S'il vous plaît essayer à nouveau plus tard.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 n’étend pas \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
-"We can't find the product.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_Checkout
+"We can't find the product.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_Checkout
 "We found an invalid request for adding product to quote.","Nous avons constaté une demande non valide pour l'ajout de produit de citer.",module,Magento_Checkout
 "The product does not exist.","Le produit n'existe pas.",module,Magento_Checkout
 "We don't have some of the products you want.","Nous n'avons pas de certains des produits que vous souhaitez.",module,Magento_Checkout
@@ -2865,7 +2865,7 @@ Continue,Continuer,module,Magento_Paypal
 "What's this?","Qu'est-ce que c'est ?",module,Magento_Persistent
 "You saved the alert subscription.","Enregistrez-vous pour recevoir une alerte de modification de prix",module,Magento_ProductAlert
 "Alert subscription has been saved.","L'inscription à l'alerte a été sauvegardée.",module,Magento_ProductAlert
-"We can't find the product.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_ProductAlert
+"We can't find the product.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_ProductAlert
 "You will no longer receive price alerts for this product.","Vous ne recevrez plus d'alertes de changement de prix pour ce produit.",module,Magento_ProductAlert
 "Unable to update the alert subscription.","Impossible de mettre à jour l'inscription à l'alerte.",module,Magento_ProductAlert
 "You will no longer receive stock alerts for this product.","Vous ne recevrez plus d'alertes de disponibilité pour ce produit.",module,Magento_ProductAlert
@@ -3375,7 +3375,7 @@ Value,Valeur,module,Magento_Sales
 "About Your Invoice","À propos de votre facture",module,Magento_Sales
 "Grand Total to be Charged","Total à facturer",module,Magento_Sales
 Unassign,"Annuler l'assignation",module,Magento_Sales
-"We can't add this item to your shopping cart right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_Sales
+"We can't add this item to your shopping cart right now.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_Sales
 Sales,Ventes,module,Magento_Sales
 "This order no longer exists.","Cette commande n'existe plus.",module,Magento_Sales
 "The coupon code has been accepted.","Le code promo a été retenue",module,Magento_Sales
@@ -3890,7 +3890,7 @@ Sales,Ventes,module,Magento_Tax
 Tax,"TVA & autres taxes",module,Magento_Tax
 "Manage Tax Rates","Gérer les taux des taxes",module,Magento_Tax
 "New Tax Rate","Nouveau taux",module,Magento_Tax
-"We can't save this rate right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_Tax
+"We can't save this rate right now.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_Tax
 "Edit Tax Rate","Éditer le taux de la taxe",module,Magento_Tax
 "Tax Rules","Règles de taxe",module,Magento_Tax
 "The tax rule has been deleted.","La règle de taxe a été supprimée.",module,Magento_Tax
@@ -4217,7 +4217,7 @@ Apply,Appliquer,module,Magento_Widget
 "The requested cart item doesn't exist.","L'article du panier demandé n'existe pas.",module,Magento_Wishlist
 "Please enter an email address.","Veuillez saisir un code postal valide. Par exemple 92100.",module,Magento_Wishlist
 "Please enter a valid email address.","Saisissez un email valide.",module,Magento_Wishlist
-"We can't create the Wish List right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_Wishlist
+"We can't create the Wish List right now.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_Wishlist
 "1 item","1 élément",module,Magento_Wishlist
 Comment,Commentaire,module,Magento_Wishlist
 "Display number of items in wish list","Afficher le nombre de produits dans la liste d'envies",module,Magento_Wishlist
@@ -4225,7 +4225,7 @@ Comment,Commentaire,module,Magento_Wishlist
 "An item option with code %1 already exists.","Une option article avec le code %1 existe déjà.",module,Magento_Wishlist
 "Cannot specify product.","Impossible de spécifier le produit",module,Magento_Wishlist
 "Invalid item option format.","Format d'option d'élément invalide.",module,Magento_Wishlist
-"We can't add this item to your shopping cart right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison.",module,Magento_Wishlist
+"We can't add this item to your shopping cart right now.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_Wishlist
 "We couldn't add the following product(s) to the shopping cart: %1.","Impossible d'ajouter le(s) produit(s) suivant à votre panier : %1.",module,Magento_Wishlist
 "%1 product(s) have been added to shopping cart: %2.","%1 produits ont été ajoutés à votre panier : %2.",module,Magento_Wishlist
 Comment:,"Commentaire :",module,Magento_Wishlist
