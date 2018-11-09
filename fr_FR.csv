@@ -4916,7 +4916,7 @@ Content,Contenu,module,Magento_Catalog
 "Display Settings","Paramètres d'affichage",module,Magento_Catalog
 Anchor,Ancre,module,Magento_Catalog
 "Use All","Utiliser l’ensemble",module,Magento_Catalog
-"Layered Navigation Price Step","Paliers de prix de navigation filtrée",module,Magento_Catalog
+"Layered Navigation Price Step","Paliers de prix de la navigation par filtre",module,Magento_Catalog
 "URL Key","Clé d'URL",module,Magento_Catalog
 "Meta Title","Titre méta",module,Magento_Catalog
 "Meta Keywords","Mots-clés meta",module,Magento_Catalog
@@ -5898,3 +5898,5 @@ Created,Créer...,module,Magento_Sales
 "Hello,","Bonjour,",module,Magento_User
 "Hello,","Bonjour,",module,Magento_Customer
 "Thanks,","Merci,",module,Magento_User
+"Available Product Listing Sort By","Tris possibles de la catégorie",module,Magento_Catalog
+"Default Product Listing Sort By","Tri par défaut de la catégorie",module,Magento_Catalog
