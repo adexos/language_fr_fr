@@ -2922,7 +2922,7 @@ Tax,"TVA & autres taxes",module,Magento_Quote
 Filter,Filtre,module,Magento_Reports
 Day,Jour,module,Magento_Reports
 Month,Mois,module,Magento_Reports
-Year,"Année""<a href=""%s"" target=""_blank"">Link</a>",module,Magento_Reports
+"Year","Année",module,Magento_Reports
 Period,Période,module,Magento_Reports
 From,Depuis,module,Magento_Reports
 To,À,module,Magento_Reports
