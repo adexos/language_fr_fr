@@ -189,7 +189,8 @@
 "Status","Statut",module,Magento_Backend
 "Disabled","Désactivé",module,Magento_Backend
 "Enabled","Activé",module,Magento_Backend
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Backend
+"Sort Order","Ordre de tri",module,Magento_Backend
+"Abandoned Carts","Paniers abandonnés",module,Magento_Backend
 "Web Site Information","Informations du site web",module,Magento_Backend
 "Default Store","Magasin par défaut",module,Magento_Backend
 "Set as Default","Définir par défaut",module,Magento_Backend
@@ -1750,7 +1751,7 @@ Download,Télécharger,module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Ce compte n'est pas confirmé. <a href=""%1"">Cliquez ici</a> pour renvoyer l'email de confirmation.",module,Magento_Customer
 "An unspecified error occurred. Please contact us for assistance.","Une erreur non spécifiée s'est produite. S'il vous plaît contactez-nous pour de l'aide.",module,Magento_Customer
 "A login and a password are required.","Login et mot de passe sont requis.",module,Magento_Customer
-"New Password and Confirm New Password values didn't match.","Les valeurs du nouveau mot de passe et de la confirmation ne correspondent pas.",module,Magento_Customer
+"New Password and Confirm New Password values didn't match.","Les mots de passe saisis ne correspondent pas.",module,Magento_Customer
 "Please enter a new password.","Veuillez entrer un nouveau mot de passe.",module,Magento_Customer
 "You updated your password.","Votre mot de passe a bien été mis à jour.",module,Magento_Customer
 "Something went wrong while saving the new password.","Une erreur s'est produite durant l'enregistrement du nouveau mot de passe.",module,Magento_Customer
@@ -2042,7 +2043,8 @@ Samples,Exemples,module,Magento_Downloadable
 "Use Default Value","Utiliser la valeur par défaut",module,Magento_Downloadable
 sample,exemple,module,Magento_Downloadable
 "[STORE VIEW]","[VUE MAGASIN]",module,Magento_Downloadable
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Downloadable
+"Sort Order","Ordre de tri",module,Magento_Downloadable
+"Abandoned Carts","Paniers abandonnés",module,Magento_Downloadable
 "Browse Files...","Parcourir les fichiers...",module,Magento_Downloadable
 Delete,Supprimer,module,Magento_Downloadable
 SKU,Réf.,module,Magento_Downloadable
@@ -2560,7 +2562,7 @@ No,Non,module,Magento_OfflineShipping
 "For shipment with matching items","Pour les expéditions avec articles concordants",module,Magento_OfflineShipping
 "We cannot retrieve the payment method model object.","Information de carte bancaire",module,Magento_Payment
 Month,Mois,module,Magento_Payment
-Year,"Année""<a href=""%s"" target=""_blank"">Link</a>",module,Magento_Payment
+"Year","Année",module,Magento_Payment
 "Credit Card Type","Type de carte de crédit",module,Magento_Payment
 "Credit Card Number","Numéro de carte bancaire",module,Magento_Payment
 "Switch/Solo/Maestro Issue Number","Numéro de problème Switch/Solo/Maestro",module,Magento_Payment
@@ -2920,7 +2922,7 @@ Tax,"TVA & autres taxes",module,Magento_Quote
 Filter,Filtre,module,Magento_Reports
 Day,Jour,module,Magento_Reports
 Month,Mois,module,Magento_Reports
-Year,"Année""<a href=""%s"" target=""_blank"">Link</a>",module,Magento_Reports
+"Year","Année",module,Magento_Reports
 Period,Période,module,Magento_Reports
 From,Depuis,module,Magento_Reports
 To,À,module,Magento_Reports
@@ -3082,7 +3084,8 @@ Websites,"Sites web",module,Magento_Review
 "Rating Title","Libellé de notation",module,Magento_Review
 "Default Value","Valeur par défaut",module,Magento_Review
 "Rating Visibility","Visibilité de classement",module,Magento_Review
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Review
+"Sort Order","Ordre de tri",module,Magento_Review
+"Abandoned Carts","Paniers abandonnés",module,Magento_Review
 "Rating Information","Informations de notation",module,Magento_Review
 "Product Reviews",Commentaires,module,Magento_Review
 "Pending product review(s)","Commentaire(s) de produit en attente",module,Magento_Review
@@ -3878,7 +3881,8 @@ Name,Nom,module,Magento_Tax
 "Tax Rate","Taux de taxe",module,Magento_Tax
 Priority,Priorité,module,Magento_Tax
 "Tax rates at the same priority are added, others are compounded.","Les taux de taxe avec la même priorité sont ajoutés. Les autres sont composés.",module,Magento_Tax
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Tax
+"Sort Order","Ordre de tri",module,Magento_Tax
+"Abandoned Carts","Paniers abandonnés",module,Magento_Tax
 "Shipping Incl. Tax (%1)","Sous-total TTC",module,Magento_Tax
 "Subtotal (Excl.Tax)","Sous-total HT",module,Magento_Tax
 "Subtotal (Incl.Tax)","Sous-total TTC",module,Magento_Tax
@@ -4184,7 +4188,8 @@ Close,Fermer,module,Magento_Widget
 "Storefront Properties","Propritétés du front office",module,Magento_Widget
 "Design Package/Theme","Interface/Thème de design",module,Magento_Widget
 "Assign to Store Views","Assigner à la vue magasin",module,Magento_Widget
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Widget
+"Sort Order","Ordre de tri",module,Magento_Widget
+"Abandoned Carts","Paniers abandonnés",module,Magento_Widget
 "Layout Updates","Mises à jour d'agencements",module,Magento_Widget
 Categories,Catégories,module,Magento_Widget
 "Anchor Categories","Catégorie ancrée",module,Magento_Widget
@@ -4530,7 +4535,8 @@ Debug,Déboguage,module,Magento_Authorizenet
 "Payment from Specific Countries","Mode de paiement autorisé pour les pays spécifiques",module,Magento_Authorizenet
 "Minimum Order Total","Montant mini de commande",module,Magento_Authorizenet
 "Maximum Order Total","Montant maxi de commande",module,Magento_Authorizenet
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Authorizenet
+"Sort Order","Ordre de tri",module,Magento_Authorizenet
+"Abandoned Carts","Paniers abandonnés",module,Magento_Authorizenet
 "Allow everything","Tout autoriser",module,Magento_Backend
 "Magento Admin","Admin Magento",module,Magento_Backend
 "Global Search","Recherche globale",module,Magento_Backend
@@ -5208,7 +5214,8 @@ Size,Taille,module,Magento_Dhl
 "Ship to Applicable Countries","Livrer aux pays applicables",module,Magento_Dhl
 "Ship to Specific Countries","Livrer aux pays spécifiques",module,Magento_Dhl
 "Show Method if Not Applicable","Afficher le mode s'il n'est pas applicable",module,Magento_Dhl
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Dhl
+"Sort Order","Ordre de tri",module,Magento_Dhl
+"Abandoned Carts","Paniers abandonnés",module,Magento_Dhl
 Debug,Déboguage,module,Magento_Dhl
 "Currency Setup","Paramétrage des devises",module,Magento_Directory
 "Currency Options","Options de devise",module,Magento_Directory
@@ -5278,7 +5285,8 @@ Dropoff,Déposer,module,Magento_Fedex
 "Ship to Specific Countries","Livrer aux pays spécifiques",module,Magento_Fedex
 Debug,Déboguage,module,Magento_Fedex
 "Show Method if Not Applicable","Afficher le mode s'il n'est pas applicable",module,Magento_Fedex
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Fedex
+"Sort Order","Ordre de tri",module,Magento_Fedex
+"Abandoned Carts","Paniers abandonnés",module,Magento_Fedex
 "Allow Gift Messages on Order Level","Autoriser les messages cadeau au niveau de la commande",module,Magento_GiftMessage
 "Allow Gift Messages for Order Items","Autoriser les messages cadeau pour chaque article",module,Magento_GiftMessage
 Enable,Activer,module,Magento_GoogleAdwords
@@ -5362,7 +5370,8 @@ Store,Magasin,module,Magento_Newsletter
 "Check / Money Order","Chèque / Liquide",module,Magento_OfflinePayments
 Enabled,Activé,module,Magento_OfflinePayments
 "New Order Status","Statut d'une nouvelle commande",module,Magento_OfflinePayments
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_OfflinePayments
+"Sort Order","Ordre de tri",module,Magento_OfflinePayments
+"Abandoned Carts","Paniers abandonnés",module,Magento_OfflinePayments
 Title,Titre,module,Magento_OfflinePayments
 "Payment from Applicable Countries","Mode de paiement autorisé pour",module,Magento_OfflinePayments
 "Payment from Specific Countries","Mode de paiement autorisé pour les pays spécifiques",module,Magento_OfflinePayments
@@ -5380,7 +5389,8 @@ Enabled,Activé,module,Magento_OfflineShipping
 Price,Prix,module,Magento_OfflineShipping
 "Calculate Handling Fee","Calculer les frais de dossier",module,Magento_OfflineShipping
 "Handling Fee","Frais de traitement",module,Magento_OfflineShipping
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_OfflineShipping
+"Sort Order","Ordre de tri",module,Magento_OfflineShipping
+"Abandoned Carts","Paniers abandonnés",module,Magento_OfflineShipping
 Title,Titre,module,Magento_OfflineShipping
 "Ship to Applicable Countries","Livrer aux pays applicables",module,Magento_OfflineShipping
 "Ship to Specific Countries","Livrer aux pays spécifiques",module,Magento_OfflineShipping
@@ -5407,7 +5417,8 @@ Import,Importer,module,Magento_OfflineShipping
 Size,Taille,module,Magento_Paypal
 Title,Titre,module,Magento_Paypal
 "It is recommended to set this value to ""PayPal"" per store views.","Il est recommandé de fixer cette valeur à ""PayPal"" par vues de magasin.",module,Magento_Paypal
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Paypal
+"Sort Order","Ordre de tri",module,Magento_Paypal
+"Abandoned Carts","Paniers abandonnés",module,Magento_Paypal
 "Payment Action","Action de paiement",module,Magento_Paypal
 "Authorization Honor Period (days)","Période d'autorisation d'honneur (jours)",module,Magento_Paypal
 "Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Indiquez quelle est la période d'autorisation d'honneur sur ​​le compte PayPal du marchand. Il doit refléter le paramétrage dans PayPal.",module,Magento_Paypal
@@ -5739,7 +5750,8 @@ Created,Créer...,module,Magento_Sales
 "Origin of the Shipment","Origine de la livraison",module,Magento_Ups
 "Password","Mot de passe",module,Magento_Ups
 "Pickup Method",Retrait,module,Magento_Ups
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Ups
+"Sort Order","Ordre de tri",module,Magento_Ups
+"Abandoned Carts","Paniers abandonnés",module,Magento_Ups
 "Title","Titre",module,Magento_Ups
 "Tracking XML URL","URL XML de suivi",module,Magento_Ups
 "Weight Unit","Unité de poids",module,Magento_Ups
@@ -5778,7 +5790,8 @@ Created,Créer...,module,Magento_Sales
 "Ship to Specific Countries","Livrer aux pays spécifiques",module,Magento_Usps
 "Debug","Déboguage",module,Magento_Usps
 "Show Method if Not Applicable","Afficher le mode s'il n'est pas applicable",module,Magento_Usps
-"Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Usps
+"Sort Order","Ordre de tri",module,Magento_Usps
+"Abandoned Carts","Paniers abandonnés",module,Magento_Usps
 "Variable ID","Identifiant de la variable",module,Magento_Variable
 "Name","Nom",module,Magento_Variable
 "Default Response Charset","Charset de réponse par défaut",module,Magento_Webapi
@@ -5883,7 +5896,7 @@ Created,Créer...,module,Magento_Sales
 "Save and Continue","Sauvegarder et continuer",module,Magento_Theme
 "Are you sure you want to send an order email to customer?","Êtes-vous sûr de vouloir envoyer l\'email commande au client ?",module,Magento_Sales
 "You sent the order email.","L'email de commande a bien été envoyé.",module,Magento_Sales
-"Payment & Shipping Method","Paiement et méthode de livraison"
+"Payment & Shipping Method","Méthode de paiement et d'expédition",module,Magento_Sales
 "Edit Customer","Editer le client"
 "Order & Account Information","Commande et informations du compte",module,Magento_Sales
 "The order confirmation email was sent","L'email de confirmation de commande a été envoyé.",module,Magento_Sales
@@ -5900,3 +5913,16 @@ Created,Créer...,module,Magento_Sales
 "Thanks,","Merci,",module,Magento_User
 "Available Product Listing Sort By","Tris possibles de la catégorie",module,Magento_Catalog
 "Default Product Listing Sort By","Tri par défaut de la catégorie",module,Magento_Catalog
+"New %changes for %user_name","New %changes for %user_name",module,Magento_User
+"We have received a request to change the following information associated with your account at %store_name: %changes.","Nous avons reçu une demande de modification des informations suivantes associées à votre compte %store_name: %changes.",module,Magento_User
+"If you have not authorized this action, please contact us immediately at %store_email","Si vous n'avez pas autorisé cette action, veuillez nous contacter immédiatement à l'adresse %store_email",module,Magento_User
+"or call us at %store_phone","ou appelez nous au %store_phone",module,Magento_User
+"All Users","Tous les utilisateurs",module,Magento_User
+"User Roles","Rôles utilisateur",module,Magento_User
+"Locked Users","Utilisateurs bloqués",module,Magento_User
+"Cron Tasks","Tâches cron",module,Dotdigitalgroup_Email
+"You canceled the order.","La commande a bien été annulée.",module,Magento_Sales
+"You put the order on hold.","La commande a bien été bloquée.",module,Magento_Sales
+"Visible on Storefront","Visible dans le compte client",module,Magento_Sales
+"You released the order from holding status.","Le statut de la commande a été restauré",module,Magento_Sales
+"Please enter less or equal than %1 symbols.","Veuillez entrer un nombre de caractères inférieur ou égal à %1.",module,Magento_Ui
