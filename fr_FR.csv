@@ -5926,3 +5926,4 @@ Created,Créer...,module,Magento_Sales
 "Visible on Storefront","Visible dans le compte client",module,Magento_Sales
 "You released the order from holding status.","Le statut de la commande a été restauré",module,Magento_Sales
 "Please enter less or equal than %1 symbols.","Veuillez entrer un nombre de caractères inférieur ou égal à %1.",module,Magento_Ui
+"Clear all","Tout supprimer"
