@@ -5929,18 +5929,18 @@ Created,Créer...,module,Magento_Sales
 "Clear all","Tout supprimer"
 "Save View As...", "Sauvegarder cette vue",module,Magento_Backend
 "Save View As...", "Sauvegarder cette vue",module,Magento_Ui
-"Select all on this page","Sélectionner tout sur cette page",module,Magento_Backend
-"Select all on this page","Sélectionner tout sur cette page",module,Magento_Downloadable
-"Select all on this page","Sélectionner tout sur cette page",module,Magento_Ui
-"Select all on this page","Sélectionner tout sur cette page",module,Magento_ConfigurableProduct
-"Select all on this page","Sélectionner tout sur cette page",module,Magento_Swatches
+"Select All on This Page","Sélectionner tout sur cette page",module,Magento_Backend
+"Select All on This Page","Sélectionner tout sur cette page",module,Magento_Downloadable
+"Select All on This Page","Sélectionner tout sur cette page",module,Magento_Ui
+"Select All on This Page","Sélectionner tout sur cette page",module,Magento_ConfigurableProduct
+"Select All on This Page","Sélectionner tout sur cette page",module,Magento_Swatches
 "Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_Backend
 "Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_Downloadable
 "Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_Ui
 "Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_ConfigurableProduct
 "Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_Swatches
-"You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_Backend
-"You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_Ui
-"You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_Downloadable
-"You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_ConfigurableProduct
-"You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_Swatches
+"You haven\'t selected any items!","Vous n\'avez rien selectionné",module,Magento_Backend
+"You haven\'t selected any items!","Vous n\'avez rien selectionné",module,Magento_Ui
+"You haven\'t selected any items!","Vous n\'avez rien selectionné",module,Magento_Downloadable
+"You haven\'t selected any items!","Vous n\'avez rien selectionné",module,Magento_ConfigurableProduct
+"You haven\'t selected any items!","Vous n\'avez rien selectionné",module,Magento_Swatches
