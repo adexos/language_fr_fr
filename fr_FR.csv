@@ -5930,8 +5930,17 @@ Created,Créer...,module,Magento_Sales
 "Save View As...", "Sauvegarder cette vue",module,Magento_Backend
 "Save View As...", "Sauvegarder cette vue",module,Magento_Ui
 "Select all on this page","Sélectionner tout sur cette page",module,Magento_Backend
+"Select all on this page","Sélectionner tout sur cette page",module,Magento_Downloadable
 "Select all on this page","Sélectionner tout sur cette page",module,Magento_Ui
+"Select all on this page","Sélectionner tout sur cette page",module,Magento_ConfigurableProduct
+"Select all on this page","Sélectionner tout sur cette page",module,Magento_Swatches
 "Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_Backend
+"Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_Downloadable
 "Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_Ui
+"Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_ConfigurableProduct
+"Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_Swatches
 "You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_Backend
 "You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_Ui
+"You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_Downloadable
+"You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_ConfigurableProduct
+"You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_Swatches
