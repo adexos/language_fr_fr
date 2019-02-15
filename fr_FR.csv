@@ -349,7 +349,7 @@
 "Thumbnail","Miniature",module,Magento_Backend
 "Additional Settings","Autres paramètres",module,Magento_Backend
 "records found","enregistrements trouvés",module,Magento_Backend
-"selected","sélectionné",module,Magento_Backend
+"selected","élément(s) sélectionné(s)",module,Magento_Backend
 "per page","par page",module,Magento_Backend
 "Previous page","Page précédente",module,Magento_Backend
 "of %1","sur %1",module,Magento_Backend
@@ -5927,3 +5927,11 @@ Created,Créer...,module,Magento_Sales
 "You released the order from holding status.","Le statut de la commande a été restauré",module,Magento_Sales
 "Please enter less or equal than %1 symbols.","Veuillez entrer un nombre de caractères inférieur ou égal à %1.",module,Magento_Ui
 "Clear all","Tout supprimer"
+"Save View As...", "Sauvegarder cette vue",module,Magento_Backend
+"Save View As...", "Sauvegarder cette vue",module,Magento_Ui
+"Select all on this page","Sélectionner tout sur cette page",module,Magento_Backend
+"Select all on this page","Sélectionner tout sur cette page",module,Magento_Ui
+"Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_Backend
+"Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_Ui
+"You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_Backend
+"You haven't selected any items!","Vous n'avez rien selectionné",module,Magento_Ui
