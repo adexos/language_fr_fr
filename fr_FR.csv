@@ -5776,8 +5776,8 @@ Created,Créer...,module,Magento_Sales
 "Packages Request Type","Type de requête de paquets",module,Magento_Usps
 "Size","Taille",module,Magento_Usps
 "Width","Largeur",module,Magento_Usps
-"Length,"Longueur",module,Magento_Usps
-"Height,"Hauteur",module,Magento_Usps
+"Length","Longueur",module,Magento_Usps
+"Height","Hauteur",module,Magento_Usps
 "Girth","Circonférence",module,Magento_Usps
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Poids maxi du paquet (consultez votre transporteur)",module,Magento_Usps
 "Calculate Handling Fee","Calculer les frais de dossier",module,Magento_Usps
