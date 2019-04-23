@@ -1731,7 +1731,7 @@ Download,Télécharger,module,Magento_Customer
 "There was an error confirming the account","Là erreur s'est produite lors de la confirmation du compte",module,Magento_Customer
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","Toi vous êtes un client de TVA enregistré, Cliquez s'il vous plait <a href=""%1"">ici</a> pour entrer votre discours de livraison pour le calcul de la TVA correcte.",module,Magento_Customer
 "Thank you for registering with %1.","Merci de vous être enregistré avec %1.",module,Magento_Customer
-"Please check your email for confirmation key.","Bail vérifier votre email pendant touche de confirmation.",module,Magento_Customer
+"Please check your email for confirmation key.","Un nouvel email vous a été envoyé.",module,Magento_Customer
 "This email does not require confirmation.","Cet email ne nécessite pas de confirmation.",module,Magento_Customer
 "Wrong email.","Email erroné.",module,Magento_Customer
 "Your password reset link has expired.","Le lien de réinitialisation de mot de passe a expiré.",module,Magento_Customer
@@ -1741,7 +1741,7 @@ Download,Télécharger,module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Si vous êtes un client de TVA enregistré, plaire <a href=""%1"">cliquez ici</a> pour entrer votre adresse de livraison pour le calcul de la TVA correcte.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Si vous êtes un client de TVA enregistré, plaire <a href=""%1"">cliquez ici</a> pour entrer votre adresse de facturation pour le calcul de la TVA correcte.",module,Magento_Customer
 "Account Information","Informations du compte",module,Magento_Customer
-"You saved the account information.","Tu as sauvegardé les informations du compte.",module,Magento_Customer
+"You saved the account information.","Les informations du compte ont bien été sauvegardées.",module,Magento_Customer
 "You did not sign in correctly or your account is temporarily disabled.","Tu l'as fait ne pas se connecter correctement ou votre compte est temporairement handicapé.",module,Magento_Customer
 "Password confirmation doesn't match entered password.","Confirmation mot de passe ne correspond pas au mot de passe entré.",module,Magento_Customer
 "Please correct the email address.","S'il vous plaît corriger l'adresse e-mail.",module,Magento_Customer
@@ -4262,6 +4262,7 @@ Product,Produit,module,Magento_Wishlist
 Back,Retour,module,Magento_Wishlist
 "* Required Fields","* Champs obligatoires",module,Magento_Wishlist
 "Sharing Information","Information de partage",module,Magento_Wishlist
+"Email address","Adresse email"
 "Email addresses, separated by commas","Adresses email, séparées par des virgules",module,Magento_Wishlist
 "Last Added Items","Derniers articles ajoutés",module,Magento_Wishlist
 "Remove This Item","Retirer cet élément",module,Magento_Wishlist
@@ -4293,7 +4294,7 @@ Password,"Mot de passe",module,Magento_Checkout
 Update,"Mettre à jour",module,Magento_Checkout
 Cancel,Annuler,module,Magento_Checkout
 "Save in address book","Enregistrer dans le carnet d'adresses",module,Magento_Checkout
-"You can create an account after checkout.","Vous pourrez créer un compte après votre sortie",module,Magento_Checkout
+"You can create an account after checkout.","Vous pourrez créer un compte par la suite.",module,Magento_Checkout
 Login,Connexion,module,Magento_Checkout
 "See Details","Clé de sécurité",module,Magento_Checkout
 "Options Details","Détails des options",module,Magento_Checkout
@@ -4319,7 +4320,7 @@ Password:,"Mot de passe :",module,Magento_Customer
 "View past orders","Voir votre historique de commandes",module,Magento_Customer
 "Store alternative addresses (for shipping to multiple family members and friends)","Enregistrer les adresses de remplacement (pour la distribution à certains membres de la famille et amis)",module,Magento_Customer
 "Please confirm your %store_name account","Confirmez votre %store_name compte",module,Magento_Customer
-"You must confirm your %customer_email email before you can sign in (link is only valid once):","Vous devez confirmer votre email %customer_email avant de pouvoir vous connecter (le lien n'est valable qu'une seule fois):",module,Magento_Customer
+"You must confirm your %customer_email email before you can sign in (link is only valid once):","Vous devez confirmer votre email %customer_email pour vous connecter (le lien n'est valable qu'une seule fois):",module,Magento_Customer
 "Confirm Your Account","Confirmez votre compte",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Merci pour confirmer votre compte %store_name.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Pour vous connecter à notre site et définir un mot de passe, cliquez sur <a href=""%create_password_url"">lien</a>:",module,Magento_Customer
@@ -5946,3 +5947,26 @@ Created,Créer...,module,Magento_Sales
 "You haven\'t selected any items!","Vous n\'avez rien selectionné",module,Magento_Swatches
 "You haven't selected any items!","Vous n'avez rien selectionné"
 "You haven\'t selected any items!","Vous n\'avez rien selectionné"
+"Successfully deleted customer address","L'adresse a bien été supprimée.",module,Magento_Customer
+"Are you sure you want to delete your account?","Êtes-vous sûr de vouloir supprimer votre compte ?"
+"Success Page","Confirmation de commande",module,Magento_Multishipping
+"Success Page","Confirmation de commande",module,Magento_Checkout
+"You saved the account information.","Les informations du compte ont bien été sauvegardées.",module,Magento_Customer
+"We have saved your subscription.","Votre inscription a bien été prise en compte.",module,Magento_Newsletter
+"We have removed your newsletter subscription.","Votre désinscription a bien été prise en compte.",module,Magento_Newsletter
+"We have updated your subscription.","Votre abonnement a bien été mis à jour.",module,Magento_Newsletter
+"We have saved your subscription.","Votre inscription a bien été prise en compte.",module,Magento_Newsletter
+"%1 has been added to your Wish List.","%1 a bien été ajouté à votre liste d'envie.",module,Magento_Wishlist
+"My Wish List","Ma liste d'envies",module,Magento_Wishlist
+"%1 Item","%1 article",module,Magento_Theme
+"%1 Item(s)","%1 article(s)",module,Magento_Theme
+"Go to Wish List","Aller dans ma liste d'envies",module,Magento_Wishlist
+"Your Order","Votre Commande",module,Magento_Checkout
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Votre mot de passe doit contenir les éléments suivants : minuscules, majuscules, chiffres et caractères spéciaux."
+"Minimum of different classes of characters in password is %s.","Votre mot de passe doit contenir les éléments suivants : minuscules, majuscules, chiffres et caractères spéciaux."
+" Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",""
+" Example: "," Exemple : "
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" est obligatoire."
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Le produit %1 a bien été ajouté à votre <a href=""%2"">panier</a>",module,Magento_Checkout
+"The requested qty is not available","La quantité demandée n'est pas disponible"
+"Request a password to change your account password.","Demander un nouveau mot de passe pour votre compte."
