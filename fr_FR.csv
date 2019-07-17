@@ -2005,7 +2005,7 @@ WARNING:,"ATTENTION :",module,Magento_Directory
 "Please correct the country code: %1.","Veuillez corriger le code pays: %1.",module,Magento_Directory
 "Country and Format Type combination should be unique","La combinaison Pays et Type de format doit être unique",module,Magento_Directory
 "Please correct the rates received","Veuillez corriger les taux récupérés",module,Magento_Directory
-"Please select a region, state or province.","Merci de sélectionner une région, une état ou une province.",module,Magento_Directory
+"Please select a region, state or province.","Merci de sélectionner une région, un état ou une province.",module,Magento_Directory
 Currency,Devise,module,Magento_Directory
 "Your current currency is: %1.","La devise actuelle est: %1.",module,Magento_Directory
 Continue,Continuer,module,Magento_Directory
