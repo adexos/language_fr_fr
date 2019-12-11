@@ -1727,8 +1727,8 @@ Download,Télécharger,module,Magento_Customer
 "Date of Birth","Date de naissance",module,Magento_Customer
 "Date of Birth","Date de naissance",module,Magento_Sales
 "Bad request.","Non trouvé.",module,Magento_Customer
-"This confirmation key is invalid or has expired.","Ce confirmation La clé est invalide ou a expiré.",module,Magento_Customer
-"There was an error confirming the account","Là erreur s'est produite lors de la confirmation du compte",module,Magento_Customer
+"This confirmation key is invalid or has expired.","Cette clé de confirmation est invalide ou a expiré.",module,Magento_Customer
+"There was an error confirming the account","Une erreur s'est produite lors de la confirmation du compte",module,Magento_Customer
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","Toi vous êtes un client de TVA enregistré, Cliquez s'il vous plait <a href=""%1"">ici</a> pour entrer votre discours de livraison pour le calcul de la TVA correcte.",module,Magento_Customer
 "Thank you for registering with %1.","Merci de vous être enregistré avec %1.",module,Magento_Customer
 "Please check your email for confirmation key.","Un nouvel email vous a été envoyé.",module,Magento_Customer
