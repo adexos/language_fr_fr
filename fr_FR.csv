@@ -384,7 +384,7 @@
 "Can't load snapshot archive","Impossible de charger l'archive de l'aperçu",module,Magento_Backup
 "Please correct the password.","Merci de corriger le mot de passe.",module,Magento_Backup
 "To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","Pour terminer le retour arrière (rollback), veuillez désélectionner ""Passer le magasin en mode maintenance"" ou mettez à jour vos autorisations.",module,Magento_Backup
-"We can't find the backup file.","Nous ne pouvons pas trouver le fichier de sauvegarde.",module,Magento_Backup
+"We can't find the backup file.","Aucun fichier de sauvegarde trouvé.",module,Magento_Backup
 "We can't connect to the FTP right now.","Nous ne pouvons pas vous connecter au serveur FTP immédiatement.",module,Magento_Backup
 "Failed to validate FTP.","Impossible de valider le serveur FTP.",module,Magento_Backup
 "You need more permissions to perform a rollback.","Vous n'êtes pas autorisé à effectuer une restauration.",module,Magento_Backup
@@ -429,8 +429,8 @@
 "Allowed Credit Card Types","Types de cartes de crédit autorisées",module,Magento_Braintree
 "Add Rule","Ajouter une règle",module,Magento_Braintree
 "Braintree Settlement Report","Rapport de règlement Braintree",module,Magento_Braintree
-"Sorry, but something went wrong","Désolé ! Une erreur s'est produite !",module,Magento_Braintree
-"We can't initialize checkout.","Nous ne pouvons pas initialiser la commande.",module,Magento_Braintree
+"Sorry, but something went wrong","Désolé, une erreur s'est produite !",module,Magento_Braintree
+"We can't initialize checkout.","Initialisation de la commande impossible.",module,Magento_Braintree
 "No authorization transaction to proceed capture.","Aucune autorisation de transaction pour procéder à la capture.",module,Magento_Braintree
 "Braintree error response.","Réponse d’erreur Braintree.",module,Magento_Braintree
 "Payment method nonce can't be retrieved.","L'authentification de la méthode de paiement ne peut pas être retrouvé.",module,Magento_Braintree
@@ -491,7 +491,7 @@
 "Please select all required options.","Veuillez sélectionner toutes les options requises.",module,Magento_Bundle
 "We can't add this item to your shopping cart right now.","Le produit ne peut être ajouté à votre panier pour le moment.",module,Magento_Bundle
 "Percent","Pourcent",module,Magento_Bundle
-"We can't save custom-defined options for bundles with dynamic pricing.","Nous ne pouvons pas enregistrer les options personnalisées pour les forfaits avec tarification dynamique.",module,Magento_Bundle
+"We can't save custom-defined options for bundles with dynamic pricing.","L'enregistrement des options personnalisées pour les forfaits avec tarification dynamique n'est pas possible.",module,Magento_Bundle
 "Cancel","Annuler",module,Magento_Bundle
 "Add Selected Products","Ajouter les produits sélectionnés",module,Magento_Bundle
 "Add Option","Ajouter une option",module,Magento_Bundle
@@ -872,14 +872,14 @@ Catalog,Catalogue,module,Magento_Catalog
 "Manage Product Attributes","Gérer les attributs produit",module,Magento_Catalog
 "We can't delete the attribute.","Impossible de supprimer l'attribut.",module,Magento_Catalog
 "You deleted the product attribute.","L'attribut produit a bien été supprimé.",module,Magento_Catalog
-"We can't find an attribute to delete.","Nous ne pouvons pas trouver un attribut à supprimer.",module,Magento_Catalog
+"We can't find an attribute to delete.","Aucun attribut à supprimer.",module,Magento_Catalog
 "This attribute no longer exists.","Cet attribut n'existe plus.",module,Magento_Catalog
 "This attribute cannot be edited.","Cet attribut ne peut pas être édité.",module,Magento_Catalog
 "Edit Product Attribute","Éditer l'attribut produit",module,Magento_Catalog
 "An attribute set named '%1' already exists.","Un jeu d’attributs nommé '%1' existe déjà.",module,Magento_Catalog
 "Something went wrong while saving the attribute.","Une erreur s'est produite lors de l'enregistrement de l'attribut",module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Le code de l'attribut ""%1"" est invalide. Merci d'utiliser uniquement des lettres (a-z), des chiffres (0-9) ou des underscores (_) dans ce champ. Le premier caractère doit être une lettre.",module,Magento_Catalog
-"We can't update the attribute.","Nous ne pouvons pas mettre à jour l’attribut.",module,Magento_Catalog
+"We can't update the attribute.","Mise à jour de l’attribut impossible.",module,Magento_Catalog
 "You saved the product attribute.","L'attribut produit a bien été sauvegardé.",module,Magento_Catalog
 "An attribute with this code already exists.","Un attribut avec le même code existe déjà.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Un attribut avec le même code (%1) existe déjà.",module,Magento_Catalog
@@ -1242,7 +1242,7 @@ Compare,Comparer,module,Magento_Catalog
 "Clear All","Tout supprimer",module,Magento_Catalog
 Prev,Précédent,module,Magento_Catalog
 Next,Suivant,module,Magento_Catalog
-"We can't find products matching the selection.","Nous ne pouvons pas trouver de produits correspondants à la sélection.",module,Magento_Catalog
+"We can't find products matching the selection.","Aucun produit ne corresponds à la sélection.",module,Magento_Catalog
 "Learn More","En savoir plus",module,Magento_Catalog
 "Add to Compare","Ajouter au comparateur",module,Magento_Catalog
 "We found other products you might like!","Nous avons trouvé d'autres produits que vous pourriez aimer !",module,Magento_Catalog
@@ -2336,7 +2336,7 @@ Never,Jamais,module,Magento_Indexer
 "State for the same view","État pour la même vue",module,Magento_Indexer
 "Field '%1' not found","Champ '%1' non trouvé",module,Magento_Indexer
 "Test Phrase","Phrase de test",module,Magento_Indexer
-Integrations,"Période d'expiration",module,Magento_Integration
+Integrations,"Intégrations",module,Magento_Integration
 Save,Sauvegarder,module,Magento_Integration
 General,Général,module,Magento_Integration
 Name,Nom,module,Magento_Integration
@@ -2827,7 +2827,7 @@ Updated:,"Modifié :",module,Magento_Paypal
 "Payment Method:","Mode de paiement :",module,Magento_Paypal
 "Order #","Commande n°",module,Magento_Paypal
 "Ship To","Livré à",module,Magento_Paypal
-"Order Status",Statut,module,Magento_Paypal
+"Order Status","Statut de commande",module,Magento_Paypal
 "View Order",Visualiser,module,Magento_Paypal
 "Back to Billing Agreements","Retour aux ententes de facturation",module,Magento_Paypal
 "Payment Method","Mode de paiement",module,Magento_Paypal
@@ -3318,7 +3318,7 @@ Capture,Capturer,module,Magento_Sales
 "Save Status Assignment","Enregistrer l'assignation du statut",module,Magento_Sales
 "Assign Order Status to State","Assigner un statut de commande à un état",module,Magento_Sales
 "Assignment Information","Information d'affectation",module,Magento_Sales
-"Order Status",Statut,module,Magento_Sales
+"Order Status","Statut de commande",module,Magento_Sales
 "Order State","État de commande",module,Magento_Sales
 "Use Order Status As Default","Utiliser ce statut comme valeur par défaut",module,Magento_Sales
 "Edit Order Status","Éditer le statut de commande",module,Magento_Sales
@@ -3957,11 +3957,11 @@ Theme,"Nom de fichier du flux TheFind",module,Magento_Theme
 "You deleted the theme.","Le thème a bien été supprimé.",module,Magento_Theme
 "We cannot delete the theme.","Nous ne pouvons pas supprimer le thème.",module,Magento_Theme
 "File not found: ""%1"".","Fichier non trouvé: «%1 ».",module,Magento_Theme
-"We can't find file.","Nous ne pouvons pas trouver le fichier.",module,Magento_Theme
+"We can't find file.","Le fichier n'a pas été trouvé.",module,Magento_Theme
 "We cannot find theme ""%1"".","Nous ne trouvons pas de thème «%1 ».",module,Magento_Theme
-"We cannot find the theme.","Nous ne pouvons pas trouver le thème.",module,Magento_Theme
+"We cannot find the theme.","Le thème n'a pas été trouvé.",module,Magento_Theme
 "You saved the theme.","Le thème a bien été sauvegardé.",module,Magento_Theme
-"We cannot find a theme with id ""%1"".","Nous ne pouvons pas trouver de thème avec l'id «%1 ».",module,Magento_Theme
+"We cannot find a theme with id ""%1"".","Le thème id «%1 » n'a pas été trouvé.",module,Magento_Theme
 label,Libellé,module,Magento_Theme
 "-- Please Select --","-- Faites un choix --",module,Magento_Theme
 Copy,Copie,module,Magento_Theme
@@ -4384,7 +4384,7 @@ Password:,"Mot de passe :",theme,frontend/Magento/luma
 "When you sign in to your account, you will be able to:","Lorsque vous vous connectez à votre compte, vous serez en mesure de :",theme,frontend/Magento/luma
 "Quick Checkout","Commande rapide",theme,frontend/Magento/luma
 "Proceed through checkout faster","Effectuer votre commande plus rapidement",theme,frontend/Magento/luma
-"Order Status",Statut,theme,frontend/Magento/luma
+"Order Status","Statut de commande",theme,frontend/Magento/luma
 "Check the status of orders","Suivre le statut de vos commandes",theme,frontend/Magento/luma
 "Manage Addresses","Gérer les adresses",theme,frontend/Magento/luma
 "Store alternative addresses","Mémoriser des adresses secondaires",theme,frontend/Magento/luma
@@ -5991,3 +5991,18 @@ Created,Créer...,module,Magento_Sales
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Le produit %1 a bien été ajouté à votre <a href=""%2"">panier</a>",module,Magento_Checkout
 "The requested qty is not available","La quantité demandée n'est pas disponible"
 "Request a password to change your account password.","Demander un nouveau mot de passe pour votre compte."
+"Hello %name,","Bonjour %name,"
+"Welcome to our website.","Nous vous souhaitons la bienvenue sur notre site."
+"Your login to your account is: %customer_email","Votre identifiant de connexion à votre compte est le suivant : %customer_email"
+"Password you set when creating account.","Votre mot de passe est celui que vous avez renseigné lors de la création de votre compte."
+"We received too many requests for password resets. Please wait and try again later or contact %1.","Nous avons déjà reçu une demande de réinitialisation de mot de passe pour votre compte. Veuillez patienter et réessayer ultérieurement. Si le problème persiste, contactez-nous."
+"Reset your password","Réinitialiser votre mot de passe"
+"Your order confirmation","Votre confirmation de commande"
+"The shipping method is missing. Select the shipping method and try again.","Veuillez sélectionner une méthode de livraison."
+"The ""%1"" attribute value is empty. Set the attribute and try again.","Le champ ""%1"" n'est pas renseigné. Veuillez le compléter."
+"Checkout and order have been canceled.","La commande a bien été annulée."
+"The product that was requested doesn't exist. Verify the product and try again.","Ajout au panier impossible car le produit n'existe pas."
+"No product matches the selection.","Aucun produit ne correspond à la sélection."
+"No product matches for your search.","Aucun produit ne correspond à votre recherche."
+"Privacy Settings","Paramètres de confidentialité"
+"Manage private data","Gestion des données personnelles"
