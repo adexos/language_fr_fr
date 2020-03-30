@@ -1727,8 +1727,8 @@ Download,Télécharger,module,Magento_Customer
 "Date of Birth","Date de naissance",module,Magento_Customer
 "Date of Birth","Date de naissance",module,Magento_Sales
 "Bad request.","Non trouvé.",module,Magento_Customer
-"This confirmation key is invalid or has expired.","Ce confirmation La clé est invalide ou a expiré.",module,Magento_Customer
-"There was an error confirming the account","Là erreur s'est produite lors de la confirmation du compte",module,Magento_Customer
+"This confirmation key is invalid or has expired.","Cette clé de confirmation est invalide ou a expiré.",module,Magento_Customer
+"There was an error confirming the account","Une erreur s'est produite lors de la confirmation du compte",module,Magento_Customer
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","Toi vous êtes un client de TVA enregistré, Cliquez s'il vous plait <a href=""%1"">ici</a> pour entrer votre discours de livraison pour le calcul de la TVA correcte.",module,Magento_Customer
 "Thank you for registering with %1.","Merci de vous être enregistré avec %1.",module,Magento_Customer
 "Please check your email for confirmation key.","Un nouvel email vous a été envoyé.",module,Magento_Customer
@@ -4489,18 +4489,39 @@ Ok,OK,module,Magento_Sales
 "We could not detect a size.","Impossible de détecter le poids du fichier.",module,Magento_Theme
 "Please enter a valid credit card number.","Veuillez saisir un numéro de carte bancaire valide.",module,Magento_Ui
 "Please select an option.","Sélectionnez une option",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Veuillez n'utiliser que des lettres (a-z or A-Z), numéros (0-9) ou espaces dans ce champ.",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Veuillez n'utiliser que des lettres (a-z or A-Z), numéros (0-9) ou barre de soulignement (_) dans ce champ, et le premier caractère doit être une lettre.",module,Magento_Ui
+"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Veuillez n'utiliser que des lettres (a-z or A-Z), numéros (0-9), espaces ou ""#"" dans ce champ.",module,Magento_Ui
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Veuillez saisir un numéro de téléphone valide.",module,Magento_Ui
+"Please enter a valid fax number (Ex: 123-456-7890).","Veuillez saisir un numéro de fax valide (Ex: 0378236547).",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","Veuillez saisir une adresse e-mail valide (ex: johndoe@domaine.com).",module,Magento_Ui
+"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Veuillez entrer 6 caractères ou plus. Les espaces en début et fin seront ignorés.",module,Magento_Ui
+"Please enter 7 or more characters, using both numeric and alphabetic.","Veuillez entrer 7 caractères ou plus, numériques ou alphabétiques.",module,Magento_Ui
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","La longueur minimale de ce champ doit être égale ou supérieure à %1 symboles. Les espaces de début et de fin seront ignorés.",module,Magento_Ui
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Le nombre minimum de classes de caractères %1. Classes de caractères: Minuscules, Majuscules, Numéros, Caractères spéciaux.",module,Magento_Ui
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Veuillez saisir une URL valide. Le protocole est requis (http://, https:// ou ftp://).",module,Magento_Ui
+"Please enter a valid URL. For example http://www.example.com or www.example.com.","Veuillez saisir une URL valide. ForPar exemple http://www.exemple.fr or www.exemple.fr.",module,Magento_Ui
+"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Veuillez saisir un identifiant XML valide (Ex: something_1, block5, id-4).",module,Magento_Ui
+"Please enter a valid social security number (Ex: 123-45-6789).","Veuillez saisir un numéro de sécurité sociale valide."
+"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Veuillez saisir un code postal valide (Ex: 75002)."
 "Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Veuillez utiliser ce format de date : jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 Décembre 2012.",module,Magento_Ui
 "Please enter a valid $ amount. For example $100.00.","Veuillez saisir un montant valide. Par exemple 100.00 €.",module,Magento_Ui
 "Please enter a number 0 or greater in this field.","Veuillez saisir un nombre supérieur ou égal à 0 dans ce champ.",module,Magento_Ui
 "Please enter a number greater than 0 in this field.","Veuillez saisir un nombre supérieur à 0 dans ce champ.",module,Magento_Ui
+"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Veuillez saisir une longueur CSS valide (ex: 100px, 77pt, 20em, .5ex ou 50%)."
 "Please enter a valid number in this field.","Veuillez saisir un nombre valide.",module,Magento_Ui
+"Please enter a valid integer in this field.","Veuillez saisir un entier valide dans ce champ."
 "The value is not within the specified range.","La valeur n'est pas dans la plage spécifiée.",module,Magento_Ui
 "Please use letters only (a-z or A-Z) in this field.","Veuillez utiliser uniquement des lettres (a-z ou A-Z) dans ce champ.",module,Magento_Ui
+"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Veuillez saisir des lettres (a-z), nombres (0-9) ou barres de soulignement (_) dans ce champ, et le premier caractère devrait être une lettre."
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Veuillez ne saisir que des lettres (a-z ou A-Z) ou nombres (0-9) dans ce champ. Aucun espace ou autre caractère ne sont autorisés."
 "Please enter a valid date.","Veuillez saisir une date valide.",module,Magento_Ui
+"Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Veuillez saisir une clé d'URL valide (ex: ""example-page"", ""example-page.html"" or ""autreniveau/example-page"")."
 "Please enter a valid zip code.","Veuillez saisir un code postal valide.",module,Magento_Ui
 "Please select State/Province.","Veuillez choisir un état/province.",module,Magento_Ui
+"Please enter a value less than or equal to {0}.","Veuillez saisir une valeur inférieure ou égale à {0}."
+"Please enter a value greater than or equal to {0}.","Veuillez saisir une valeur supérieure ou égale à {0}."
+"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Veuillez saisir des e-mails valides, séparés par des virgules. Par exemple : johndoe@domain.com, johnsmith@domain.com."
 "Please enter issue number or start date for switch/solo card type.","Veuillez saisir le numéro de problème ou une date de début pour le type de carte switch/solo.",module,Magento_Ui
 "This is a required field.","Ce champ est obligatoire.",module,Magento_Ui
 "Please enter positive number in this field.","Saisissez un nombre positif",module,Magento_Ui
