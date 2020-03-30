@@ -5834,8 +5834,8 @@ Created,Créer...,module,Magento_Sales
 "Select Product...","Choisir un produit...",module,Magento_Widget
 "Widget ID","ID de widget",module,Magento_Widget
 "Share Options","Options de partage",module,Magento_Wishlist
-"Email Sender","Expéditeur du mail",module,Magento_Wishlist
-"Email Template","Gabarit du mail",module,Magento_Wishlist
+"Email Sender","Expéditeur de l'email",module,Magento_Wishlist
+"Email Template","Gabarit de l'email",module,Magento_Wishlist
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Wishlist
 "General Options","Options générales",module,Magento_Wishlist
 "Enabled","Activé",module,Magento_Wishlist
