@@ -3106,7 +3106,7 @@ Pending,"En attente",module,Magento_Review
 "Assigned Options","Options attribuées",module,Magento_Review
 "Option Title:","Titre de l'option :",module,Magento_Review
 "Product Name","Nom de produit",module,Magento_Review
-"See Details","Clé de sécurité",module,Magento_Review
+"See Details","Voir les détails",module,Magento_Review
 "You have submitted no reviews.","Vous n'avez posté aucun commentaire",module,Magento_Review
 Back,Retour,module,Magento_Review
 "My Recent Reviews","Mes derniers commentaires :",module,Magento_Review
@@ -4255,7 +4255,7 @@ Edit,Éditer,module,Magento_Wishlist
 "Remove item","Retirer l'article",module,Magento_Wishlist
 "Add to Compare","Ajouter au comparateur",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","Cliquez <a href=""%1"">ici</a> pour continuer vos achats.",module,Magento_Wishlist
-"See Details","Clé de sécurité",module,Magento_Wishlist
+"See Details","Voir les détails",module,Magento_Wishlist
 "Options Details","Détails des options",module,Magento_Wishlist
 "RSS Feed","Flux RSS",module,Magento_Wishlist
 Product,Produit,module,Magento_Wishlist
@@ -4296,7 +4296,7 @@ Cancel,Annuler,module,Magento_Checkout
 "Save in address book","Enregistrer dans le carnet d'adresses",module,Magento_Checkout
 "You can create an account after checkout.","Vous pourrez créer un compte par la suite.",module,Magento_Checkout
 Login,Connexion,module,Magento_Checkout
-"See Details","Clé de sécurité",module,Magento_Checkout
+"See Details","Voir les détails",module,Magento_Checkout
 "Options Details","Détails des options",module,Magento_Checkout
 Remove,Supprimer,module,Magento_Checkout
 "Cart Subtotal","Sous-total du panier",module,Magento_Checkout
