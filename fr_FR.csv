@@ -533,7 +533,7 @@
 "Availability","Disponibilité",module,Magento_Bundle
 "In stock","En stock",module,Magento_Bundle
 "Out of stock",Épuisé,module,Magento_Bundle
-Summary,Résumé,module,Magento_Bundle
+Summary,Récapitulatif,module,Magento_Bundle
 Availability:,"Disponibilité :",module,Magento_Bundle
 Quantity,Quantité,module,Magento_Bundle
 "Customize %1","Personnaliser %1",module,Magento_Bundle
@@ -907,7 +907,8 @@ Products,Produits,module,Magento_Catalog
 "This attribute set no longer exists.","Ce jeu d'attributs n'existe plus.",module,Magento_Catalog
 "You saved the attribute set.","Le jeu d’attributs a bien été sauvegardé.",module,Magento_Catalog
 "Something went wrong while saving the attribute set.","Une erreur s'est produite lors de l'enregistrement de l'attribut set.",module,Magento_Catalog
-"You added product %1 to the comparison list.","Vous avez ajouté le produit %1 à la liste de comparaison.",module,Magento_Catalog
+"You added product %1 to the comparison list.","Le produit %1 a bien été ajouté à la liste de comparaison.",module,Magento_Catalog
+"You added product %s to the comparison list.","Le produit %s a bien été ajouté à la liste de comparaison.",module,Magento_Catalog
 "You cleared the comparison list.","Vous avez supprimé la liste de comparaison.",module,Magento_Catalog
 "Something went wrong  clearing the comparison list.","La liste de comparaison n'a pas pu être effacée.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","Vous avez retiré le produit %1 de la liste de comparaison.",module,Magento_Catalog
@@ -1237,7 +1238,7 @@ Role,Rôle,module,Magento_Catalog
 "Out of stock",Épuisé,module,Magento_Catalog
 "Add to Wish List","Ajouter à la liste d'envie",module,Magento_Catalog
 "You have no items to compare.","Vous n'avez pas d'articles à comparer.",module,Magento_Catalog
-"Remove This Item","Retirer cet élément",module,Magento_Catalog
+"Remove This Item","Supprimer cet élément",module,Magento_Catalog
 Compare,Comparer,module,Magento_Catalog
 "Clear All","Tout supprimer",module,Magento_Catalog
 Prev,Précédent,module,Magento_Catalog
@@ -1340,7 +1341,7 @@ State/Province,État/Région,module,Magento_Checkout
 "Sorry, guest checkout is not available.","Désolé, le guest checkout n'est pas disponible.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Vous devez confirmer votre compte. Veuillez vérifier votre email pour le lien de confirmation ou <a href=""%1"">cliquez ici</a> pour un nouveau lien.",module,Magento_Checkout
 "Load customer quote error","Erreur lors du chargement du panier client",module,Magento_Checkout
-"Apply Discount Code","Appliquer le code promo",module,Magento_Checkout
+"Apply Discount Code","Appliquer un code promo",module,Magento_Checkout
 "Enter discount code","Entrez le code promo",module,Magento_Checkout
 "Apply Discount","Appliquer",module,Magento_Checkout
 "Cancel Coupon","Annuler le bon de réduction",module,Magento_Checkout
@@ -1907,22 +1908,22 @@ Store,Magasin,module,Magento_Customer
 "Address","Adresse",module,Magento_Customer
 "Street Address",Adresse,module,Magento_Customer
 "Street Address %1",Fax,module,Magento_Customer
-"VAT Number","Numéro de TVA""Cron (Scheduled Tasks) - all the times are in minutes",module,Magento_Customer
+"VAT Number","Numéro de TVA",module,Magento_Customer
 "City","Ville",module,Magento_Customer
 "State/Province","État/Région",module,Magento_Customer
 "Please select a region, state or province.","Merci de sélectionner une région, un état ou une province.",module,Magento_Customer
 "Zip/Postal Code","Code postal",module,Magento_Customer
 "Country","Pays",module,Magento_Customer
-"It's a default billing address.","C'est l'adresse de facturation par défaut.",module,Magento_Customer
+"It's a default billing address.","Ceci est votre adresse de facturation par défaut.",module,Magento_Customer
 "Use as my default billing address","Utiliser comme adresse de facturation par défaut",module,Magento_Customer
-"It's a default shipping address.","Ceci est l'adresse de livraison par défaut.",module,Magento_Customer
-"Use as my default shipping address","Utiliser comme adresse de <strong>livraison</strong> par défaut",module,Magento_Customer
+"It's a default shipping address.","Ceci est votre adresse de livraison par défaut.",module,Magento_Customer
+"Use as my default shipping address","Utiliser comme adresse de livraison par défaut",module,Magento_Customer
 "Save Address","Sauvegarder l'adresse",module,Magento_Customer
 "Go back",Retour,module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Veuillez entrer votre email ci-dessous et nous vous enverrons un lien de confirmation.",module,Magento_Customer
 "Send confirmation link","Envoyer un lien de confirmation",module,Magento_Customer
 "Back to Sign In","Retourner à la connexion",module,Magento_Customer
-"Change Email and Password","Changer le courriel et le mot de passe",module,Magento_Customer
+"Change Email and Password","Modifier l'email et le mot de passe",module,Magento_Customer
 "Current Password","Mot de passe actuel",module,Magento_Customer
 "New Password","Nouveau mot de passe",module,Magento_Customer
 "Password Strength","Force de mot de passe",module,Magento_Customer
@@ -2440,7 +2441,7 @@ Product,Produit,module,Magento_Multishipping
 Qty,Qté,module,Magento_Multishipping
 "Send To","Envoyer à",module,Magento_Multishipping
 "Remove Item","Supprimer l'article",module,Magento_Multishipping
-"Remove item","Retirer l'article",module,Magento_Multishipping
+"Remove item","Supprimer l'article",module,Magento_Multishipping
 "Update Qty &amp; Addresses","Mettre à jour les quantités et adresses",module,Magento_Multishipping
 "Enter a New Address","Saisir une nouvelle adresse",module,Magento_Multishipping
 "Back to Shopping Cart","Retour au panier",module,Magento_Multishipping
@@ -3446,7 +3447,8 @@ Mixed,Mixte,module,Magento_Sales
 Order,Commande,module,Magento_Sales
 Authorization,Autorisation,module,Magento_Sales
 "Sold to:","Vendu à :",module,Magento_Sales
-"Ship to:","Livré à:",module,Magento_Sales
+"Ship to:","Livré à :",module,Magento_Sales
+"Ship to:","Livré à :",module,Magento_Checkout
 "Payment Method:","Mode de paiement :",module,Magento_Sales
 "Shipping Method:","Mode de livraison :",module,Magento_Sales
 "Total Shipping Charges","Montant total de la livraison",module,Magento_Sales
@@ -4252,7 +4254,7 @@ Availability,Disponibilité,module,Magento_Wishlist
 "Out of stock",Épuisé,module,Magento_Wishlist
 Edit,Éditer,module,Magento_Wishlist
 "Remove Item","Supprimer l'article",module,Magento_Wishlist
-"Remove item","Retirer l'article",module,Magento_Wishlist
+"Remove item","Supprimer l'article",module,Magento_Wishlist
 "Add to Compare","Ajouter au comparateur",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","Cliquez <a href=""%1"">ici</a> pour continuer vos achats.",module,Magento_Wishlist
 "See Details","Voir les détails",module,Magento_Wishlist
@@ -4294,7 +4296,7 @@ Password,"Mot de passe",module,Magento_Checkout
 Update,"Mettre à jour",module,Magento_Checkout
 Cancel,Annuler,module,Magento_Checkout
 "Save in address book","Enregistrer dans le carnet d'adresses",module,Magento_Checkout
-"You can create an account after checkout.","Vous pourrez créer un compte par la suite.",module,Magento_Checkout
+"You can create an account after checkout.","Vous pourrez créer un compte après le passage de votre commande.",module,Magento_Checkout
 Login,Connexion,module,Magento_Checkout
 "See Details","Voir les détails",module,Magento_Checkout
 "Options Details","Détails des options",module,Magento_Checkout
@@ -4625,11 +4627,11 @@ Locale,"Profil local",module,Magento_Backend
 "Store Hours of Operation","Horaires du magasin",module,Magento_Backend
 Country,Pays,module,Magento_Backend
 Region/State,Région/État,module,Magento_Backend
-"ZIP/Postal Code","Code postal""and",module,Magento_Backend
+"ZIP/Postal Code","Code postal",module,Magento_Backend
 City,Ville,module,Magento_Backend
 "Street Address",Adresse,module,Magento_Backend
 "Street Address Line 2","Adresse - ligne 2",module,Magento_Backend
-"VAT Number","Numéro de TVA""Cron (Scheduled Tasks) - all the times are in minutes",module,Magento_Backend
+"VAT Number","Numéro de TVA",module,Magento_Backend
 "Single-Store Mode","Mode mono-boutique",module,Magento_Backend
 "Enable Single-Store Mode","Activer le mode mono-boutique",module,Magento_Backend
 "This setting will not be taken into account if system has more than one store view.","Ce paramètre ne sera pas pris dans le compte, si le système a plus d'une vue de magasin.",module,Magento_Backend
@@ -5010,9 +5012,9 @@ Details,Détails,module,Magento_Catalog
 Summary,Récapitulatif,module,Magento_Checkout
 "Order Total","Total de la commande",module,Magento_Checkout
 "Shipping Address","Adresse de livraison",module,Magento_Checkout
-"We'll send your order confirmation here.","Nous vous enverrons votre confirmation de commande ici.",module,Magento_Checkout
+"We'll send your order confirmation here.","Nous enverrons votre confirmation de commande à cette adresse.",module,Magento_Checkout
 Payment,Paiement,module,Magento_Checkout
-"Not yet calculated","N’est pas encore calculé",module,Magento_Checkout
+"Not yet calculated","Pas encore calculée",module,Magento_Checkout
 "We received your order!","Nous avons reçu votre commande !",module,Magento_Checkout
 "Thank you for your purchase!","Merci de votre achat !",module,Magento_Checkout
 "Media Gallery","Galerie de médias",module,Magento_Cms
@@ -6002,7 +6004,16 @@ Created,Créer...,module,Magento_Sales
 "The ""%1"" attribute value is empty. Set the attribute and try again.","Le champ ""%1"" n'est pas renseigné. Veuillez le compléter."
 "Checkout and order have been canceled.","La commande a bien été annulée."
 "The product that was requested doesn't exist. Verify the product and try again.","Ajout au panier impossible car le produit n'existe pas."
-"No product matches the selection.","Aucun produit ne correspond à la sélection."
-"No product matches for your search.","Aucun produit ne correspond à votre recherche."
+"No product matches the selection.","Aucun produit ne correspond à la sélection.",module,Magento_Catalog
+"No product matches for your search.","Aucun produit ne correspond à votre recherche.",module,Magento_Catalog
 "Privacy Settings","Paramètres de confidentialité"
 "Manage private data","Gestion des données personnelles"
+"Edit item","Modifier",module,Magento_Checkout
+"Item in Cart","produit dans le panier",module,Magento_Checkout
+"Items in Cart","produits dans le panier",module,Magento_Checkout
+"Enter your destination to get a shipping estimate.","Entrez vos coordonnées pour obtenir une estimation.",module,Magento_Checkout
+"Ship Here","Livrer à cette adresse",module,Magento_Checkout
+"Estimated Total","Total estimé",module,Magento_Checkout
+"Order # %1","Commande n°%1"
+"Print receipt","Imprimer la confirmation"
+"Related search terms","Termes de recherche associés",module,Magento_CatalogSearch
