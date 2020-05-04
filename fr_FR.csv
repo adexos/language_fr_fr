@@ -4717,7 +4717,7 @@ Rollback,"Retour arrière (rollback)",module,Magento_Backup
 "Scheduled Backup Settings","Paramètres de sauvegarde programmée",module,Magento_Backup
 "Enable Scheduled Backup","Activer la sauvegarde programmée",module,Magento_Backup
 "Backup Type","Type de sauvegarde",module,Magento_Backup
-"Start Time","Heure de début""An error occurred while creating the image.",module,Magento_Backup
+"Start Time","Heure de début",module,Magento_Backup
 Frequency,Fréquence,module,Magento_Backup
 "Maintenance Mode","Mode de maintenance",module,Magento_Backup
 Delete,Supprimer,module,Magento_Backup
