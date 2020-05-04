@@ -5684,7 +5684,7 @@ Created,Créer...,module,Magento_Sales
 "Origin","Origine",module,Magento_Shipping
 "Country","Pays",module,Magento_Shipping
 "Region/State","Région/État",module,Magento_Shipping
-"ZIP/Postal Code","Code postal""and",module,Magento_Shipping
+"ZIP/Postal Code","Code postal",module,Magento_Shipping
 "City","Ville",module,Magento_Shipping
 "Street Address",Adresse,module,Magento_Shipping
 "Street Address Line 2","Adresse - ligne 2",module,Magento_Shipping
