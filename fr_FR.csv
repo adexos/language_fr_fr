@@ -5991,7 +5991,7 @@ Created,Créer...,module,Magento_Sales
 " Example: "," Exemple : "
 """%fieldName"" is required. Enter and try again.","""%fieldName"" est obligatoire."
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Le produit %1 a bien été ajouté à votre <a href=""%2"">panier</a>",module,Magento_Checkout
-"The requested qty is not available","La quantité demandée n'est pas disponible"
+"The requested qty is not available","La quantité demandée n'est pas disponible."
 "Request a password to change your account password.","Demander un nouveau mot de passe pour votre compte."
 "Hello %name,","Bonjour %name,"
 "Welcome to our website.","Nous vous souhaitons la bienvenue sur notre site."
@@ -6017,3 +6017,4 @@ Created,Créer...,module,Magento_Sales
 "Order # %1","Commande n°%1"
 "Print receipt","Imprimer la confirmation"
 "Related search terms","Termes de recherche associés",module,Magento_CatalogSearch
+"Can't check requested quantity for products without Source Items support.","Impossible de vérifier la quantité demandée.",module,Magento_InventorySales
