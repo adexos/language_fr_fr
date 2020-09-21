@@ -1549,7 +1549,7 @@ Summary,Résumé,module,Magento_ConfigurableProduct
 "Option with id ""%1"" not found","Option avec l'id ""%1"" introuvable",module,Magento_ConfigurableProduct
 "Something went wrong while saving option.","Il y a eu une erreur lors de l'enregistrement de l'option.",module,Magento_ConfigurableProduct
 "You can't add the item to shopping cart.","Impossible d'ajouter le produit au panier",module,Magento_ConfigurableProduct
-"You need to choose options for your item.","Javascript doit être activé dans votre navigateur pour utiliser toutes les fonctionnalités de ce site.",module,Magento_ConfigurableProduct
+"You need to choose options for your item.","Vou devez choisir des options pour votre produit.",module,Magento_ConfigurableProduct
 "Add configurable attributes to the current Attribute Set","Ajouter des attributs configurables pour le courant de l'Attribut",module,Magento_ConfigurableProduct
 Confirm,Confirmer,module,Magento_ConfigurableProduct
 Done,Terminé,module,Magento_ConfigurableProduct
