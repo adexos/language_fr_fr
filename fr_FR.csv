@@ -3670,9 +3670,9 @@ Remove,Supprimer,module,Magento_SendFriend
 Name,Nom,module,Magento_SendFriend
 "* Required Fields","* Champs obligatoires",module,Magento_SendFriend
 Sender,Expéditeur,module,Magento_SendFriend
-Invitee,"Statut du stock de l'inventaire",module,Magento_SendFriend
+Invitee,"Invité",module,Magento_SendFriend
 "Maximum %1 email addresses allowed.","%1 adresses mail maxi autorisées",module,Magento_SendFriend
-"Add Invitee","Ajouter un prix par groupe",module,Magento_SendFriend
+"Add Invitee","Ajouter un invité",module,Magento_SendFriend
 "Send Email","Envoyer un email",module,Magento_SendFriend
 Back,Retour,module,Magento_SendFriend
 "New Shipment for Order #%1",Origine,module,Magento_Shipping
@@ -6019,3 +6019,10 @@ Created,Créer...,module,Magento_Sales
 "Related search terms","Termes de recherche associés",module,Magento_CatalogSearch
 "Can't check requested quantity for products without Source Items support.","Impossible de vérifier la quantité demandée.",module,Magento_InventorySales
 "You are subscribed to ""General Subscription"".","Vous êtes abonné à notre newsletter.",module,Magento_Newsletter
+"Please type the letters and numbers below","Veuillez saisir les lettres et les chiffres ci-dessous",module,Magento_Captcha
+"Thanks,<br>%store_name","Merci,<br>%store_name",module,Magento_Customer
+"Your %store_name email and password has been changed","Votre email et votre mot de passe %store_name ont été modifiés",module,Magento_Customer
+"Your %store_name password has been changed","Votre mot de passe %store_name a été modifié",module,Magento_Customer
+"Our hours are <span class=""no-link"">%store_hours</span>.","Nos horaires sont <span class=""no-link"">%store_hours</span>."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Si vous avez des questions concernant votre commande, vous pouvez nous envoyer un email à <a href=""mailto:%store_email""> %store_email</a>"
+"This email address is already subscribed.","Cette adresse e-mail est déjà abonnée."
