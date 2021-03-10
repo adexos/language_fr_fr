@@ -4417,7 +4417,7 @@ Footer,"Pied de page",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Votre commande <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Effectuée le <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Mise à jour de votre commande %store_name",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Votre commande %store_name a été livrée",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Votre commande %store_name a été expédiée",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","La confirmation de votre expédition se trouve ci-dessous. Merci encore pour votre commande.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Votre expédition #%shipment_id pour la commande #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Mise à jour de votre envoi %store_name",theme,frontend/Magento/luma
