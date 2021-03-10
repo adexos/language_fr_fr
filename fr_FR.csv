@@ -117,7 +117,7 @@
 "All Files","Tous les fichiers",module,Magento_Backend
 "Reset to Default","Rétablir les valeurs par défaut",module,Magento_Backend
 "All Store Views","Toutes les vues magasin",module,Magento_Backend
-"What is this?","Aide ?""Add",module,Magento_Backend
+"What is this?","Aide ?",module,Magento_Backend
 "Save Account","Sauvegarder le compte",module,Magento_Backend
 "My Account","Mon compte",module,Magento_Backend
 "Account Information","Informations du compte",module,Magento_Backend
@@ -1243,7 +1243,7 @@ Compare,Comparer,module,Magento_Catalog
 "Clear All","Tout supprimer",module,Magento_Catalog
 Prev,Précédent,module,Magento_Catalog
 Next,Suivant,module,Magento_Catalog
-"We can't find products matching the selection.","Aucun produit ne corresponds à la sélection.",module,Magento_Catalog
+"We can't find products matching the selection.","Aucun produit ne correspond à la sélection.",module,Magento_Catalog
 "Learn More","En savoir plus",module,Magento_Catalog
 "Add to Compare","Ajouter au comparateur",module,Magento_Catalog
 "We found other products you might like!","Nous avons trouvé d'autres produits que vous pourriez aimer !",module,Magento_Catalog
@@ -1251,6 +1251,7 @@ Next,Suivant,module,Magento_Catalog
 "Check items to add to the cart or","Cochez les articles à ajouter au panier ou",module,Magento_Catalog
 "select all","tout sélectionner",module,Magento_Catalog
 "Items %1-%2 of %3","Articles %1-%2 sur %3",module,Magento_Catalog
+"Items %1 to %2 of %3 total","Articles %1 à %2 sur %3"
 "%1 Item","%1 article",module,Magento_Catalog
 "%1 Items","%1 articles",module,Magento_Catalog
 Show,Afficher,module,Magento_Catalog
@@ -4866,7 +4867,8 @@ Main,Principal,module,Magento_Catalog
 "Mask for Meta Title","Masque pour le titre Meta",module,Magento_Catalog
 "Mask for Meta Keywords","Masque pour les mots clés Meta",module,Magento_Catalog
 "Mask for Meta Description","Masque pour la description Meta",module,Magento_Catalog
-"Lifetime of products in Recently Compared Widget","La durée de vie des produits Récemment par Rapport Widget",module,Magento_Catalog
+"Lifetime of products in Recently Viewed Widget","Durée de vie des produits récemment consultés",module,Magento_Catalog
+"Lifetime of products in Recently Compared Widget","Durée de vie des produits récemment comparés",module,Magento_Catalog
 "Synchronize widget products with backend storage","Synchroniser widget produits avec backend de stockage",module,Magento_Catalog
 Storefront,Vitrine,module,Magento_Catalog
 "List Mode","Mode d'affichage",module,Magento_Catalog
@@ -5254,7 +5256,8 @@ Enabled,Activé,module,Magento_Directory
 "Error Email Template","Gabarit du mail d'erreur",module,Magento_Directory
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Directory
 Frequency,Fréquence,module,Magento_Directory
-"Start Time","Heure de début""An error occurred while creating the image.",module,Magento_Directory
+"Start Time","Heure de début"
+"An error occurred while creating the image.","Une erreur s'est produite pendant la création de l'image",module,Magento_Directory
 "Installed Currencies","Devises installées",module,Magento_Directory
 "Zip/Postal Code is Optional for","Le code postal est optionnel pour",module,Magento_Directory
 "State Options","Options des états",module,Magento_Directory
@@ -6045,3 +6048,17 @@ Created,Créer...,module,Magento_Sales
 "Distance Priority","Priorité à la distance"
 "Source Priority","Priorité à la source"
 "Source Selection","Sélection de la source"
+"Autostart base video","Autostart vidéo"
+"Show related video","Afficher la vidéo associée"
+"Auto restart video","Relancer automatiquement la vidéo"
+"Display Category Filter","Afficher le filtre par catégorie"
+"Number of top search results to cache","Nombre de résultats top recherche à mettre en cache"
+"Enable EAV Indexer","Activer EAV"
+"Autocomplete Limit","Limite autocomplétion"
+"Search Engine","Moteur de recherche"
+"Update Wish List","Mettre à jour ma liste d'envie"
+"Share Wish List","Partager ma liste d'envie"
+"%1 has been removed from your Wish List.","%1 a bien été supprimé de votre liste d'envie."
+"This Wish List has no Items","Cette liste d'envie est vide."
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","La commande n'a pas été passée. Commencez par accepter les conditions générales, puis essayez à nouveau de passer votre commande.",module,Magento_CheckoutAgreements
+"Checkout","Commander"
