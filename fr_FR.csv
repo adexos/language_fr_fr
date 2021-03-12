@@ -3095,7 +3095,7 @@ Websites,"Sites web",module,Magento_Review
 "Pending Reviews RSS","Flux RSS des commentaires en attente",module,Magento_Review
 Reviews,Commentaires,module,Magento_Review
 "Customer Reviews","Commentaires des clients",module,Magento_Review
-"Edit Review","Éditer le commentaire '%s'",module,Magento_Review
+"Edit Review","Éditer le commentaire",module,Magento_Review
 "Please select review(s).","Sélectionnez au moins un commentaire",module,Magento_Review
 "A total of %1 record(s) have been deleted.","%1 enregistrement(s) a (ont) été effacé(s).",module,Magento_Review
 "A total of %1 record(s) have been updated.","Aucun type de produit n'est défini pour l'indexer.",module,Magento_Review
