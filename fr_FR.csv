@@ -3358,7 +3358,7 @@ Shipments,Expéditions,module,Magento_Sales
 "Order View","Visualisation de la commande",module,Magento_Sales
 Any,Tous,module,Magento_Sales
 Specified,Spécifié,module,Magento_Sales
-"Cart Price Rule","Certains articles dans le panier ne sont pas elligibles à l'export vers l'API PayPal.",module,Magento_Sales
+"Cart Price Rule","Règle de prix panier",module,Magento_Sales
 Yes,"Oui",module,Magento_Sales
 No,Non,module,Magento_Sales
 "Show Actual Values","Montrer les valeurs actuelles",module,Magento_Sales
@@ -3800,7 +3800,7 @@ Path,Chemin,module,Magento_Sitemap
 "example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","exemple : ""sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)",module,Magento_Sitemap
 "Store View","Vue magasin",module,Magento_Sitemap
 Generate,Générer,module,Magento_Sitemap
-"XML Sitemap","L'objet XML n'est pas une instance de ""Varien_Simplexml_Element"".",module,Magento_Sitemap
+"XML Sitemap","Plan de site XML",module,Magento_Sitemap
 "Add Sitemap","Ajouter un plan du site",module,Magento_Sitemap
 Catalog,Catalogue,module,Magento_Sitemap
 "You deleted the sitemap.","Le sitemap a bien été supprimé.",module,Magento_Sitemap
@@ -5558,7 +5558,7 @@ Inactive,Inactif,module,Magento_Review
 "Auto Generated Specific Coupon Codes","Codes de bons de réduction spécifiques générés automatiquement",module,Magento_SalesRule
 "Web Site","Site Web",module,Magento_SalesRule
 Priority,Priorité,module,Magento_SalesRule
-"Cart Price Rule","Certains articles dans le panier ne sont pas elligibles à l'export vers l'API PayPal.",module,Magento_SalesRule
+"Cart Price Rule","Règle de prix panier",module,Magento_SalesRule
 "Rule Information","Informations règle",module,Magento_SalesRule
 "Rule Name","Nom de la règle",module,Magento_SalesRule
 Websites,"Sites web",module,Magento_SalesRule
